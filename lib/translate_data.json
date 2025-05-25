@@ -1,0 +1,4346 @@
+[
+  {
+    "Bahasa Indonesia": "Berita",
+    "Ngoko": "Warta",
+    "Krama": "Pawartos"
+  },
+  {
+    "Bahasa Indonesia": "Beri",
+    "Ngoko": "Weneh",
+    "Krama": "Suka",
+    "Krama Inggil": "Paring"
+  },
+  {
+    "Bahasa Indonesia": "Besar",
+    "Ngoko": "Gedhe",
+    "Krama": "Agêng"
+  },
+  {
+    "Bahasa Indonesia": "Bicarakan",
+    "Ngoko": "Rembug",
+    "Krama": "Rêmbag"
+  },
+  {
+    "Bahasa Indonesia": "Bicara",
+    "Ngoko": "Ngomong",
+    "Krama": "Ngêndika",
+    "Krama Inggil": "Ngandika"
+  },
+  {
+    "Bahasa Indonesia": "Bodoh",
+    "Ngoko": "Bodho",
+    "Krama": "Bodho"
+  },
+  {
+    "Bahasa Indonesia": "Boleh",
+    "Ngoko": "Oleh",
+    "Krama": "Kenging"
+  },
+  {
+    "Bahasa Indonesia": "Boros",
+    "Ngoko": "Boros",
+    "Krama": "Kirang mènat"
+  },
+  {
+    "Bahasa Indonesia": "Buah",
+    "Ngoko": "Woh",
+    "Krama": "Wowohan"
+  },
+  {
+    "Bahasa Indonesia": "Bukan",
+    "Ngoko": "Ora",
+    "Krama": "Botên"
+  },
+  {
+    "Bahasa Indonesia": "Buka",
+    "Ngoko": "Buka",
+    "Krama": "Bikak"
+  },
+  {
+    "Bahasa Indonesia": "Buku",
+    "Ngoko": "Buku",
+    "Krama": "Sêrat"
+  },
+  {
+    "Bahasa Indonesia": "Bulan",
+    "Ngoko": "Sasi",
+    "Krama": "Sasi"
+  },
+  {
+    "Bahasa Indonesia": "Bundar",
+    "Ngoko": "Bunder",
+    "Krama": "Bunder"
+  },
+  {
+    "Bahasa Indonesia": "Bunyi",
+    "Ngoko": "Swara",
+    "Krama": "Sura"
+  },
+  {
+    "Bahasa Indonesia": "Buruk",
+    "Ngoko": "Èlèk",
+    "Krama": "Awon"
+  },
+  {
+    "Bahasa Indonesia": "Burung",
+    "Ngoko": "Manuk",
+    "Krama": "Peksi"
+  },
+  {
+    "Bahasa Indonesia": "Cari",
+    "Ngoko": "Golèk",
+    "Krama": "Pados"
+  },
+  {
+    "Bahasa Indonesia": "Capek",
+    "Ngoko": "Kèsèl",
+    "Krama": "Sayah"
+  },
+  {
+    "Bahasa Indonesia": "Cepat",
+    "Ngoko": "Cepet",
+    "Krama": "Enjing"
+  },
+  {
+    "Bahasa Indonesia": "Cerita",
+    "Ngoko": "Crita",
+    "Krama": "Cariyos"
+  },
+  {
+    "Bahasa Indonesia": "Cuci",
+    "Ngoko": "Kumbah",
+    "Krama": "Wijik"
+  },
+  {
+    "Bahasa Indonesia": "Cukup",
+    "Ngoko": "Cukup",
+    "Krama": "Cêkap"
+  },
+  {
+    "Bahasa Indonesia": "Dapat",
+    "Ngoko": "Oleh",
+    "Krama": "Angsal"
+  },
+  {
+    "Bahasa Indonesia": "Datang",
+    "Ngoko": "Tekan",
+    "Krama": "Dhatêng",
+    "Krama Inggil": "Rawuh"
+  },
+  {
+    "Bahasa Indonesia": "Daun",
+    "Ngoko": "Godhong",
+    "Krama": "Ron"
+  },
+  {
+    "Bahasa Indonesia": "Dekat",
+    "Ngoko": "Cêdhak",
+    "Krama": "Cakêt"
+  },
+  {
+    "Bahasa Indonesia": "Dengar",
+    "Ngoko": "Krungu",
+    "Krama": "Mireng"
+  },
+  {
+    "Bahasa Indonesia": "Dinding",
+    "Ngoko": "Témbok",
+    "Krama": "Dinding"
+  },
+  {
+    "Bahasa Indonesia": "Duduk",
+    "Ngoko": "Lênggah",
+    "Krama Inggil": "Sami lênggah"
+  },
+  {
+    "Bahasa Indonesia": "Dulu",
+    "Ngoko": "Biyèn",
+    "Krama": "Rumiyin"
+  },
+  {
+    "Bahasa Indonesia": "Gajah",
+    "Ngoko": "Gajah",
+    "Krama Inggil": "Liman"
+  },
+  {
+    "Bahasa Indonesia": "Gampang",
+    "Ngoko": "Gampang",
+    "Krama": "Gampil"
+  },
+  {
+    "Bahasa Indonesia": "Gelap",
+    "Ngoko": "Pêtêng",
+    "Krama": "Pêtêng"
+  },
+  {
+    "Bahasa Indonesia": "Gigi",
+    "Ngoko": "Untu",
+    "Krama Inggil": "Waja"
+  },
+  {
+    "Bahasa Indonesia": "Gila",
+    "Ngoko": "Édan",
+    "Krama": "Génder"
+  },
+  {
+    "Bahasa Indonesia": "Guling",
+    "Ngoko": "Guling",
+    "Krama Inggil": "Tilem"
+  },
+  {
+    "Bahasa Indonesia": "Gunung",
+    "Ngoko": "Gunung",
+    "Krama": "Redi"
+  },
+  {
+    "Bahasa Indonesia": "Haus",
+    "Ngoko": "Nglakaké",
+    "Krama": "Ngêlêh"
+  },
+  {
+    "Bahasa Indonesia": "Heran",
+    "Ngoko": "Gumun",
+    "Krama": "Èwêd"
+  },
+  {
+    "Bahasa Indonesia": "Hitam",
+    "Ngoko": "Irêng",
+    "Krama": "Cêmêng"
+  },
+  {
+    "Bahasa Indonesia": "Hujan",
+    "Ngoko": "Udhan",
+    "Krama": "Jawuh"
+  },
+  {
+    "Bahasa Indonesia": "Ingin",
+    "Ngoko": "Kepingin",
+    "Krama": "Kêpengin",
+    "Krama Inggil": "Karsa"
+  },
+  {
+    "Bahasa Indonesia": "Ini",
+    "Ngoko": "Iki",
+    "Krama": "Punika"
+  },
+  {
+    "Bahasa Indonesia": "Itu",
+    "Ngoko": "Iku",
+    "Krama": "Samenika"
+  },
+  {
+    "Bahasa Indonesia": "Iya",
+    "Ngoko": "Iya",
+    "Krama": "Inggih"
+  },
+  {
+    "Bahasa Indonesia": "Jalan",
+    "Ngoko": "Dalan",
+    "Krama": "Lêbêt",
+    "Krama Inggil": "Margi"
+  },
+  {
+    "Bahasa Indonesia": "Jatuh",
+    "Ngoko": "Ciblok",
+    "Krama": "Dhawah"
+  },
+  {
+    "Bahasa Indonesia": "Jelek",
+    "Ngoko": "Èlèk",
+    "Krama": "Awak"
+  },
+  {
+    "Bahasa Indonesia": "Jika",
+    "Ngoko": "Yèn",
+    "Krama": "Manawi"
+  },
+  {
+    "Bahasa Indonesia": "Jangan",
+    "Ngoko": "Aja",
+    "Krama": "Sampun"
+  },
+  {
+    "Bahasa Indonesia": "Jawab",
+    "Ngoko": "Saur",
+    "Krama": "Wangsulan"
+  },
+  {
+    "Bahasa Indonesia": "Juga",
+    "Ngoko": "Uga",
+    "Krama": "Ugi"
+  },
+  {
+    "Bahasa Indonesia": "Kain",
+    "Ngoko": "Kain",
+    "Krama": "Sinjang"
+  },
+  {
+    "Bahasa Indonesia": "Kakak",
+    "Ngoko": "Kakang",
+    "Krama Inggil": "Raka"
+  },
+  {
+    "Bahasa Indonesia": "Kaki",
+    "Ngoko": "Sikil",
+    "Krama Inggil": "Samparan"
+  },
+  {
+    "Bahasa Indonesia": "Kamu",
+    "Ngoko": "Kowé",
+    "Krama": "Panjênêngan"
+  },
+  {
+    "Bahasa Indonesia": "Kapan",
+    "Ngoko": "Kapan",
+    "Krama": "Kapan"
+  },
+  {
+    "Bahasa Indonesia": "Kasih",
+    "Ngoko": "Trêsna",
+    "Krama": "Trêsna"
+  },
+  {
+    "Bahasa Indonesia": "Kecil",
+    "Ngoko": "Cilik",
+    "Krama": "Alit"
+  },
+  {
+    "Bahasa Indonesia": "Kenapa",
+    "Ngoko": "Kenapa",
+    "Krama": "Kèngapa"
+  },
+  {
+    "Bahasa Indonesia": "Kepala",
+    "Ngoko": "Sirah",
+    "Krama Inggil": "Mustaka"
+  },
+  {
+    "Bahasa Indonesia": "Kerja",
+    "Ngoko": "Nyambut gawé",
+    "Krama": "Nyambut damêl"
+  },
+  {
+    "Bahasa Indonesia": "Kertas",
+    "Ngoko": "Kertas",
+    "Krama": "Karatas"
+  },
+  {
+    "Bahasa Indonesia": "Ketawa",
+    "Ngoko": "Ngguyu",
+    "Krama": "Gumujêng"
+  },
+  {
+    "Bahasa Indonesia": "Kiri",
+    "Ngoko": "Kiwa",
+    "Krama": "Kiwa"
+  },
+  {
+    "Bahasa Indonesia": "Kucing",
+    "Ngoko": "Kucing",
+    "Krama": "Kucing"
+  },
+  {
+    "Bahasa Indonesia": "Kuat",
+    "Ngoko": "Kuat",
+    "Krama": "Kiyat"
+  },
+  {
+    "Bahasa Indonesia": "Kuning",
+    "Ngoko": "Kuning",
+    "Krama": "Jêne"
+  },
+  {
+    "Bahasa Indonesia": "Kurang",
+    "Ngoko": "Kurang",
+    "Krama": "Kirang"
+  },
+  {
+    "Bahasa Indonesia": "Kursi",
+    "Ngoko": "Kursi",
+    "Krama Inggil": "Palênggahan"
+  },
+  {
+    "Bahasa Indonesia": "Laki-laki",
+    "Ngoko": "Lanang",
+    "Krama": "Jaler"
+  },
+  {
+    "Bahasa Indonesia": "Lama",
+    "Ngoko": "Dawa",
+    "Krama": "Dawi"
+  },
+  {
+    "Bahasa Indonesia": "Lapar",
+    "Ngoko": "Luwe",
+    "Krama": "Nglêsoni"
+  },
+  {
+    "Bahasa Indonesia": "Lari",
+    "Ngoko": "Mlayu",
+    "Krama": "Lumayu"
+  },
+  {
+    "Bahasa Indonesia": "Leher",
+    "Ngoko": "Gulu",
+    "Krama Inggil": "Jangga"
+  },
+  {
+    "Bahasa Indonesia": "Lemah",
+    "Ngoko": "Lemah",
+    "Krama": "Lêmah"
+  },
+  {
+    "Bahasa Indonesia": "Lihat",
+    "Ngoko": "Deleng",
+    "Krama": "Ningali",
+    "Krama Inggil": "Mirêng"
+  },
+  {
+    "Bahasa Indonesia": "Lupa",
+    "Ngoko": "Lali",
+    "Krama": "Supe"
+  },
+  {
+    "Bahasa Indonesia": "Lurus",
+    "Ngoko": "Lurus",
+    "Krama": "Lêrês"
+  },
+  {
+    "Bahasa Indonesia": "Makan",
+    "Ngoko": "Mangan",
+    "Krama": "Nêdha",
+    "Krama Inggil": "Dahar"
+  },
+  {
+    "Bahasa Indonesia": "Malam",
+    "Ngoko": "Bêngi",
+    "Krama": "Dalu"
+  },
+  {
+    "Bahasa Indonesia": "Malas",
+    "Ngoko": "Males",
+    "Krama": "Têbih saking kêpenginan"
+  },
+  {
+    "Bahasa Indonesia": "Mandi",
+    "Ngoko": "Adus",
+    "Krama": "Siram"
+  },
+  {
+    "Bahasa Indonesia": "Masak",
+    "Ngoko": "Masa",
+    "Krama": "Masak"
+  },
+  {
+    "Bahasa Indonesia": "Masuk",
+    "Ngoko": "Lêbok",
+    "Krama": "Lêbêt"
+  },
+  {
+    "Bahasa Indonesia": "Mata",
+    "Ngoko": "Mata",
+    "Krama Inggil": "Socan"
+  },
+  {
+    "Bahasa Indonesia": "Mati",
+    "Ngoko": "Pati",
+    "Krama": "Séda",
+    "Krama Inggil": "Séda"
+  },
+  {
+    "Bahasa Indonesia": "Mau",
+    "Ngoko": "Arêp",
+    "Krama": "Ajêng",
+    "Krama Inggil": "Kêrsa"
+  },
+  {
+    "Bahasa Indonesia": "Melompat",
+    "Ngoko": "Mlumpat",
+    "Krama": "Mlumpat"
+  },
+  {
+    "Bahasa Indonesia": "Melihat",
+    "Ngoko": "Ndelok",
+    "Krama": "Ningali"
+  },
+  {
+    "Bahasa Indonesia": "Memasak",
+    "Ngoko": "Ngolah",
+    "Krama": "Ngolah"
+  },
+  {
+    "Bahasa Indonesia": "Membaca",
+    "Ngoko": "Maca",
+    "Krama": "Maos"
+  },
+  {
+    "Bahasa Indonesia": "Membawa",
+    "Ngoko": "Nggawa",
+    "Krama": "Ngasta"
+  },
+  {
+    "Bahasa Indonesia": "Mencari",
+    "Ngoko": "Nggolèki",
+    "Krama": "Madosi"
+  },
+  {
+    "Bahasa Indonesia": "Mencuci",
+    "Ngoko": "Ngumbah",
+    "Krama": "Nyuci"
+  },
+  {
+    "Bahasa Indonesia": "Mendengar",
+    "Ngoko": "Ngrungokaké",
+    "Krama": "Mirengakên"
+  },
+  {
+    "Bahasa Indonesia": "Minum",
+    "Ngoko": "Ngombé",
+    "Krama": "Nginum"
+  },
+  {
+    "Bahasa Indonesia": "Mudah",
+    "Ngoko": "Gampang",
+    "Krama": "Gampil"
+  },
+  {
+    "Bahasa Indonesia": "Muka",
+    "Ngoko": "Rai",
+    "Krama Inggil": "Pasuryan"
+  },
+  {
+    "Bahasa Indonesia": "Mulai",
+    "Ngoko": "Mulai",
+    "Krama": "Miwiti"
+  },
+  {
+    "Bahasa Indonesia": "Mundur",
+    "Ngoko": "Mundur",
+    "Krama": "Mundur"
+  },
+  {
+    "Bahasa Indonesia": "Naik",
+    "Ngoko": "Munggah",
+    "Krama": "Munggah"
+  },  
+  {
+    "Bahasa Indonesia": "Naik (kendaraan)",
+    "Ngoko": "Numpak",
+    "Krama": "Numpak",
+    "Krama Inggil": "Nunggang"
+  },
+  {
+    "Bahasa Indonesia": "Nama",
+    "Ngoko": "Jeneng",
+    "Krama": "Nami",
+    "Krama Inggil": "Asma"
+  },
+  {
+    "Bahasa Indonesia": "Napas",
+    "Ngoko": "Ambegan",
+    "Krama": "Ambegan"
+  },
+  {
+    "Bahasa Indonesia": "Nenek",
+    "Ngoko": "Mbah",
+    "Krama": "Eyang"
+  },
+  {
+    "Bahasa Indonesia": "Nomor",
+    "Ngoko": "Nomer",
+    "Krama": "Nomer"
+  },
+  {
+    "Bahasa Indonesia": "Orang",
+    "Ngoko": "Wong",
+    "Krama": "Tiyang"
+  },
+  {
+    "Bahasa Indonesia": "Pagi",
+    "Ngoko": "Ésuk",
+    "Krama": "Enjing"
+  },
+  {
+    "Bahasa Indonesia": "Panas",
+    "Ngoko": "Panas",
+    "Krama": "Bêntèr"
+  },
+  {
+    "Bahasa Indonesia": "Panggil",
+    "Ngoko": "Celuk",
+    "Krama": "Timbal"
+  },
+  {
+    "Bahasa Indonesia": "Pecah",
+    "Ngoko": "Pecah",
+    "Krama": "Pecah"
+  },
+  {
+    "Bahasa Indonesia": "Pendek",
+    "Ngoko": "Cêndhak",
+    "Krama": "Cakêt"
+  },
+  {
+    "Bahasa Indonesia": "Perempuan",
+    "Ngoko": "Wédok",
+    "Krama": "Estri"
+  },
+  {
+    "Bahasa Indonesia": "Pergi",
+    "Ngoko": " lunga",
+    "Krama": "kesah",
+    "Krama Inggil": "tindak"
+  },
+  {
+    "Bahasa Indonesia": "Pikir",
+    "Ngoko": "Pikir",
+    "Krama": "Manah"
+  },
+  {
+    "Bahasa Indonesia": "Pintu",
+    "Ngoko": "Lawang",
+    "Krama": "Lêbêt"
+  },
+  {
+    "Bahasa Indonesia": "Pohon",
+    "Ngoko": "Wit",
+    "Krama": "Pohon"
+  },
+  {
+    "Bahasa Indonesia": "Pulang",
+    "Ngoko": "Mulih",
+    "Krama": "Wangsul",
+    "Krama Inggil": "Kondur"
+  },
+  {
+    "Bahasa Indonesia": "Putih",
+    "Ngoko": "Puth",
+    "Krama": "Pêtak"
+  },
+  {
+    "Bahasa Indonesia": "Rambut",
+    "Ngoko": "Rambut",
+    "Krama Inggil": "Rikma"
+  },
+  {
+    "Bahasa Indonesia": "Rumah",
+    "Ngoko": "Omah",
+    "Krama": "Griya",
+    "Krama Inggil": "Dalêm"
+  },
+  {
+    "Bahasa Indonesia": "Sakit",
+    "Ngoko": "Lara",
+    "Krama": "Gêring",
+    "Krama Inggil": "Sakit"
+  },
+  {
+    "Bahasa Indonesia": "Sama",
+    "Ngoko": "Padha",
+    "Krama": "Sami"
+  },
+  {
+    "Bahasa Indonesia": "Sampai",
+    "Ngoko": "Nganti",
+    "Krama": "Ngantos"
+  },
+  {
+    "Bahasa Indonesia": "Sana",
+    "Ngoko": "Kana",
+    "Krama": "Ngrika"
+  },
+  {
+    "Bahasa Indonesia": "Saya",
+    "Ngoko": "Aku",
+    "Krama": "Kula",
+    "Krama Inggil": "Dalêm"
+  },
+  {
+    "Bahasa Indonesia": "Sayang",
+    "Ngoko": "Sayang",
+    "Krama": "Sayang"
+  },
+  {
+    "Bahasa Indonesia": "Sedikit",
+    "Ngoko": "Sithik",
+    "Krama": "Sekêdhik"
+  },
+  {
+    "Bahasa Indonesia": "Selamat",
+    "Ngoko": "Slamet",
+    "Krama": "Wilujêng"
+  },
+  {
+    "Bahasa Indonesia": "Semua",
+    "Ngoko": "Kabèh",
+    "Krama": "Sami"
+  },
+  {
+    "Bahasa Indonesia": "Sini",
+    "Ngoko": "Kéné",
+    "Krama": "Ngriki"
+  },
+  {
+    "Bahasa Indonesia": "Siapa",
+    "Ngoko": "Sapa",
+    "Krama": "Sinten"
+  },
+  {
+    "Bahasa Indonesia": "Sore",
+    "Ngoko": "Sore",
+    "Krama": "Sontên"
+  },
+  {
+    "Bahasa Indonesia": "Suami",
+    "Ngoko": "Bojo lanang",
+    "Krama": "Semah kakung"
+  },
+  {
+    "Bahasa Indonesia": "Sudah",
+    "Ngoko": "Wis",
+    "Krama": "Sampun"
+  },
+  {
+    "Bahasa Indonesia": "Suka",
+    "Ngoko": "Seneng",
+    "Krama": "Remên"
+  },
+  {
+    "Bahasa Indonesia": "Sungai",
+    "Ngoko": "Kali",
+    "Krama": "Lêpên"
+  },
+  {
+    "Bahasa Indonesia": "Tangan",
+    "Ngoko": "Tangan",
+    "Krama Inggil": "Asta"
+  },
+  {
+    "Bahasa Indonesia": "Tanah",
+    "Ngoko": "Lêmah",
+    "Krama": "Siti"
+  },
+  {
+    "Bahasa Indonesia": "Tanya",
+    "Ngoko": "Takon",
+    "Krama": "Nyuwun pirsa"
+  },
+  {
+    "Bahasa Indonesia": "Tidur",
+    "Ngoko": "Turu",
+    "Krama Inggil": "Saré"
+  },
+  {
+    "Bahasa Indonesia": "Tidak",
+    "Ngoko": "Ora",
+    "Krama": "Botên"
+  },
+  {
+    "Bahasa Indonesia": "Tinggi",
+    "Ngoko": "Dhuwur",
+    "Krama": "Inggil"
+  },
+  {
+    "Bahasa Indonesia": "Tolong",
+    "Ngoko": "Tulung",
+    "Krama": "Pitulung"
+  },
+  {
+    "Bahasa Indonesia": "Tua",
+    "Ngoko": "Tuwa",
+    "Krama": "Sêpuh"
+  },
+  {
+    "Bahasa Indonesia": "Uang",
+    "Ngoko": "Dhuwit",
+    "Krama": "Yatra"
+  },
+  {
+    "Bahasa Indonesia": "Ular",
+    "Ngoko": "Ula",
+    "Krama": "Sawa"
+  },
+  {
+    "Bahasa Indonesia": "Untuk",
+    "Ngoko": "Kanggo",
+    "Krama": "Kangge"
+  },
+  {
+    "Bahasa Indonesia": "Utara",
+    "Ngoko": "Lor",
+    "Krama": "Lèr"
+  },
+  {
+    "Bahasa Indonesia": "Waktu",
+    "Ngoko": "Wektu",
+    "Krama": "Wêkdal"
+  },
+  {
+    "Bahasa Indonesia": "Wanita",
+    "Ngoko": "Wadon",
+    "Krama": "Wanita"
+  },
+  {
+    "Bahasa Indonesia": "Warna",
+    "Ngoko": "Werna",
+    "Krama": "Warni"
+  },
+  {
+    "Bahasa Indonesia": "Ya",
+    "Ngoko": "Iya",
+    "Krama": "Inggih"
+  },
+  {
+    "Bahasa Indonesia": "Bagaimana",
+    "Ngoko": "Piye",
+    "Krama": "Kados pundi"
+  },
+  {
+    "Bahasa Indonesia": "Benar",
+    "Ngoko": "Bener",
+    "Krama": "Leres"
+  },
+  {
+    "Bahasa Indonesia": "Berjalan",
+    "Ngoko": "Mlaku",
+    "Krama": "Mlampah",
+    "Krama Inggil": "Tindak"
+  },
+  {
+    "Bahasa Indonesia": "Beri tahu",
+    "Ngoko": "Kandhani",
+    "Krama": "Ngaturi uninga"
+  },
+  {
+    "Bahasa Indonesia": "Biar",
+    "Ngoko": "Ben",
+    "Krama": "Supados"
+  },
+  {
+    "Bahasa Indonesia": "Bisa",
+    "Ngoko": "Isa",
+    "Krama": "Saged"
+  },
+  {
+    "Bahasa Indonesia": "Buat",
+    "Ngoko": "Gawé",
+    "Krama": "Damêl"
+  },
+  {
+    "Bahasa Indonesia": "Cinta",
+    "Ngoko": "Trêsna",
+    "Krama": "Trêsna"
+  },
+  {
+    "Bahasa Indonesia": "Dalam",
+    "Ngoko": "Ing njero",
+    "Krama": "Ing lêbêt"
+  },
+  {
+    "Bahasa Indonesia": "Dari",
+    "Ngoko": "Saka",
+    "Krama": "Saking"
+  },
+  {
+    "Bahasa Indonesia": "Datang ke",
+    "Ngoko": "Mrene",
+    "Krama": "Mrêki",
+    "Krama Inggil": "Ngarsani"
+  },
+  {
+    "Bahasa Indonesia": "Dengar",
+    "Ngoko": "Rungokake",
+    "Krama": "Mirengake"
+  },
+  {
+    "Bahasa Indonesia": "Dunia",
+    "Ngoko": "Donya",
+    "Krama": "Jagad"
+  },
+  {
+    "Bahasa Indonesia": "Gambar",
+    "Ngoko": "Gambar",
+    "Krama": "Gêbar"
+  },
+  {
+    "Bahasa Indonesia": "Gerak",
+    "Ngoko": "Obah",
+    "Krama": "Obah"
+  },
+  {
+    "Bahasa Indonesia": "Hormat",
+    "Ngoko": "Kurmat",
+    "Krama": "Kurmat"
+  },
+  {
+    "Bahasa Indonesia": "Istri",
+    "Ngoko": "Bojo wadon",
+    "Krama": "Semah estri"
+  },
+  {
+    "Bahasa Indonesia": "Jangan-jangan",
+    "Ngoko": "Mbokmenawa",
+    "Krama": "Mbok bilih"
+  },
+  {
+    "Bahasa Indonesia": "Jantung",
+    "Ngoko": "Ati",
+    "Krama Inggil": "Pênggalih"
+  },
+  {
+    "Bahasa Indonesia": "Jelas",
+    "Ngoko": "Cetha",
+    "Krama": "Cêthos"
+  },
+  {
+    "Bahasa Indonesia": "Kalau",
+    "Ngoko": "Nek",
+    "Krama": "Menawi"
+  },
+  {
+    "Bahasa Indonesia": "Kamar",
+    "Ngoko": "Kamar",
+    "Krama Inggil": "Pajimatan"
+  },
+  {
+    "Bahasa Indonesia": "Karena",
+    "Ngoko": "Merga",
+    "Krama": "Amargi"
+  },
+  {
+    "Bahasa Indonesia": "Kawan",
+    "Ngoko": "Kanca",
+    "Krama": "Rekan"
+  },
+  {
+    "Bahasa Indonesia": "Keluarga",
+    "Ngoko": "Keluarga",
+    "Krama": "Kaluwarga"
+  },
+  {
+    "Bahasa Indonesia": "Kemarin",
+    "Ngoko": "Wingi",
+    "Krama": "Kala wingi"
+  },
+  {
+    "Bahasa Indonesia": "Kenal",
+    "Ngoko": "Kenal",
+    "Krama": "Wanuh"
+  },
+  {
+    "Bahasa Indonesia": "Kesini",
+    "Ngoko": "Mréné",
+    "Krama": "Mrêki"
+  },
+  {
+    "Bahasa Indonesia": "Ketemu",
+    "Ngoko": "Kêtêmu",
+    "Krama": "Pinanggih"
+  },
+  {
+    "Bahasa Indonesia": "Kira",
+    "Ngoko": "Kira",
+    "Krama": "Kinten"
+  },
+  {
+    "Bahasa Indonesia": "Kota",
+    "Ngoko": "Kutha",
+    "Krama": "Kitha"
+  },
+  {
+    "Bahasa Indonesia": "Laki",
+    "Ngoko": "Laki",
+    "Krama": "Jaler"
+  },
+  {
+    "Bahasa Indonesia": "Lelah",
+    "Ngoko": "Kêsêl",
+    "Krama": "Sayah"
+  },
+  {
+    "Bahasa Indonesia": "Lebih",
+    "Ngoko": "Luwih",
+    "Krama": "Langku"
+  },
+  {
+    "Bahasa Indonesia": "Luar",
+    "Ngoko": "Njoba",
+    "Krama": "Sanès lêbêt"
+  },
+  {
+    "Bahasa Indonesia": "Maaf",
+    "Ngoko": "Ngapura",
+    "Krama": "Ngapuntên"
+  },
+  {
+    "Bahasa Indonesia": "Makan siang",
+    "Ngoko": "Mangan awan",
+    "Krama": "Nêdha siyang"
+  },
+  {
+    "Bahasa Indonesia": "Malam ini",
+    "Ngoko": "Bêngi iki",
+    "Krama": "Dalu punika"
+  },
+  {
+    "Bahasa Indonesia": "Malang",
+    "Ngoko": "Cilaka",
+    "Krama": "Cilaka"
+  },
+  {
+    "Bahasa Indonesia": "Manusia",
+    "Ngoko": "Manungsa",
+    "Krama": "Tiyang"
+  },
+  {
+    "Bahasa Indonesia": "Mas",
+    "Ngoko": "Mas",
+    "Krama": "Kangmas"
+  },
+  {
+    "Bahasa Indonesia": "Matahari",
+    "Ngoko": "Srengéngé",
+    "Krama": "Suryo"
+  },
+  {
+    "Bahasa Indonesia": "Minta",
+    "Ngoko": "Njaluk",
+    "Krama": "Nyuwun"
+  },
+  {
+    "Bahasa Indonesia": "Mungkin",
+    "Ngoko": "Mbokmênawa",
+    "Krama": "Mênggah"
+  },
+  {
+    "Bahasa Indonesia": "Nanti",
+    "Ngoko": "Mengko",
+    "Krama": "Benjing"
+  },
+  {
+    "Bahasa Indonesia": "Negara",
+    "Ngoko": "Negara",
+    "Krama": "Nêgari"
+  },
+  {
+    "Bahasa Indonesia": "Perempuan",
+    "Ngoko": "Wedok",
+    "Krama": "Estri"
+  },
+  {
+    "Bahasa Indonesia": "Pesan",
+    "Ngoko": "Pesen",
+    "Krama": "Pêsan"
+  },
+  {
+    "Bahasa Indonesia": "Pikirkan",
+    "Ngoko": "Pikirna",
+    "Krama": "Dipunmanah"
+  },
+  {
+    "Bahasa Indonesia": "Punya",
+    "Ngoko": "Duwé",
+    "Krama": "Gadhah"
+  },
+  {
+    "Bahasa Indonesia": "Rasa",
+    "Ngoko": "Rasa",
+    "Krama": "Raos"
+  },
+  {
+    "Bahasa Indonesia": "Rindu",
+    "Ngoko": "Kangen",
+    "Krama": "Kagèt manah"
+  },
+  {
+    "Bahasa Indonesia": "Sana",
+    "Ngoko": "Kono",
+    "Krama": "Ngrika"
+  },
+  {
+    "Bahasa Indonesia": "Sebentar",
+    "Ngoko": "Sithik",
+    "Krama": "Sekêdhap"
+  },
+  {
+    "Bahasa Indonesia": "Sehat",
+    "Ngoko": "Warás",
+    "Krama": "Saras"
+  },
+  {
+    "Bahasa Indonesia": "Sekarang",
+    "Ngoko": "Saiki",
+    "Krama": "Sapunika"
+  },
+  {
+    "Bahasa Indonesia": "Senang",
+    "Ngoko": "Seneng",
+    "Krama": "Rêmên"
+  },
+  {
+    "Bahasa Indonesia": "Sini",
+    "Ngoko": "Kene",
+    "Krama": "Ngriki"
+  },
+  {
+    "Bahasa Indonesia": "Suara",
+    "Ngoko": "Swara",
+    "Krama": "Sura"
+  },
+  {
+    "Bahasa Indonesia": "Suka",
+    "Ngoko": "Seneng",
+    "Krama": "Rêmên"
+  },
+  {
+    "Bahasa Indonesia": "Susu",
+    "Ngoko": "Susu",
+    "Krama Inggil": "Toyanên"
+  },
+  {
+    "Bahasa Indonesia": "Teman",
+    "Ngoko": "Kanca",
+    "Krama": "Rekan"
+  },
+  {
+    "Bahasa Indonesia": "Tempat",
+    "Ngoko": "Panggonan",
+    "Krama": "Papan"
+  },
+  {
+    "Bahasa Indonesia": "Terima kasih",
+    "Ngoko": "Matur nuwun",
+    "Krama": "Matur nuwun"
+  },
+  {
+    "Bahasa Indonesia": "Terus",
+    "Ngoko": "Terus",
+    "Krama": "Lajêng"
+  },
+  {
+    "Bahasa Indonesia": "Tolong",
+    "Ngoko": "Tulung",
+    "Krama": "Pitulungan"
+  },
+  {
+    "Bahasa Indonesia": "Untukmu",
+    "Ngoko": "Kanggo kowe",
+    "Krama": "Kangge panjenengan"
+  },
+  {
+    "Bahasa Indonesia": "Usah",
+    "Ngoko": "Ora usah",
+    "Krama": "Botên prêlu"
+  },
+  {
+    "Bahasa Indonesia": "Waktu itu",
+    "Ngoko": "Mbiyèn kuwi",
+    "Krama": "Rumiyin punika"
+  },
+  {
+    "Bahasa Indonesia": "Awal",
+    "Ngoko": "Wiwitan",
+    "Krama": "Wiwitan"
+  },
+  {
+    "Bahasa Indonesia": "Bagian",
+    "Ngoko": "Bagian",
+    "Krama": "Perangan"
+  },
+  {
+    "Bahasa Indonesia": "Bahagia",
+    "Ngoko": "Seneng ati",
+    "Krama": "Manah suka"
+  },
+  {
+    "Bahasa Indonesia": "Bantu",
+    "Ngoko": "Bantu",
+    "Krama": "Biyantu"
+  },
+  {
+    "Bahasa Indonesia": "Bayar",
+    "Ngoko": "Bayar",
+    "Krama": "Bayar"
+  },
+  {
+    "Bahasa Indonesia": "Belakang",
+    "Ngoko": "Mburi",
+    "Krama": "Wingking"
+  },
+  {
+    "Bahasa Indonesia": "Beli",
+    "Ngoko": "Tuku",
+    "Krama": "Mundhut"
+  },
+  {
+    "Bahasa Indonesia": "Berangkat",
+    "Ngoko": "Budhal",
+    "Krama": "Bidhal",
+    "Krama Inggil": "Tindhak"
+  },
+  {
+    "Bahasa Indonesia": "Berhenti",
+    "Ngoko": "Mêndhêg",
+    "Krama": "Kendel"
+  },
+  {
+    "Bahasa Indonesia": "Berpikir",
+    "Ngoko": "Mikír",
+    "Krama": "Nggalih"
+  },
+  {
+    "Bahasa Indonesia": "Bertemu",
+    "Ngoko": "Kêtêmu",
+    "Krama": "Pinanggih"
+  },
+  {
+    "Bahasa Indonesia": "Bintang",
+    "Ngoko": "Lintang",
+    "Krama": "Sêsotya"
+  },
+  {
+    "Bahasa Indonesia": "Bisa jadi",
+    "Ngoko": "Mbokmenawa",
+    "Krama": "Mbok bilih"
+  },
+  {
+    "Bahasa Indonesia": "Buka (pintu)",
+    "Ngoko": "Bukak",
+    "Krama": "Bikak"
+  },
+  {
+    "Bahasa Indonesia": "Bunga",
+    "Ngoko": "Kembang",
+    "Krama": "Sêkar"
+  },
+  {
+    "Bahasa Indonesia": "Cari tahu",
+    "Ngoko": "Nggolèki",
+    "Krama": "Madosi"
+  },
+  {
+    "Bahasa Indonesia": "Cepat-cepat",
+    "Ngoko": "Gêgêrahan",
+    "Krama": "Ênggal-ênggal"
+  },
+  {
+    "Bahasa Indonesia": "Contoh",
+    "Ngoko": "Conto",
+    "Krama": "Tuladha"
+  },
+  {
+    "Bahasa Indonesia": "Daerah",
+    "Ngoko": "Daerah",
+    "Krama": "Wewêngkon"
+  },
+  {
+    "Bahasa Indonesia": "Dapur",
+    "Ngoko": "Pawon",
+    "Krama Inggil": "Padhusan"
+  },
+  {
+    "Bahasa Indonesia": "Dasar",
+    "Ngoko": "Dhasar",
+    "Krama": "Dhasar"
+  },
+  {
+    "Bahasa Indonesia": "Depan",
+    "Ngoko": "Ngarep",
+    "Krama": "Ngajêng"
+  },
+  {
+    "Bahasa Indonesia": "Diam",
+    "Ngoko": "Menêng",
+    "Krama": "Saréh"
+  },
+  {
+    "Bahasa Indonesia": "Dinding",
+    "Ngoko": "Témbok",
+    "Krama": "Dinding"
+  },
+  {
+    "Bahasa Indonesia": "Dulu (lama)",
+    "Ngoko": "Mbiyèn",
+    "Krama": "Rumiyin"
+  },
+  {
+    "Bahasa Indonesia": "Enak",
+    "Ngoko": "Énak",
+    "Krama": "Eca"
+  },
+  {
+    "Bahasa Indonesia": "Gembira",
+    "Ngoko": "Bungah",
+    "Krama": "Suka manah"
+  },
+  {
+    "Bahasa Indonesia": "Habis",
+    "Ngoko": "Entèk",
+    "Krama": "Telas"
+  },
+  {
+    "Bahasa Indonesia": "Harus",
+    "Ngoko": "Kudu",
+    "Krama": "Kêdah"
+  },
+  {
+    "Bahasa Indonesia": "Hati-hati",
+    "Ngoko": "Ngati-ati",
+    "Krama": "Ngatos-atos"
+  },
+  {
+    "Bahasa Indonesia": "Hidup",
+    "Ngoko": "Urip",
+    "Krama": "Gêsang"
+  },
+  {
+    "Bahasa Indonesia": "Ikut serta",
+    "Ngoko": "Mèloni",
+    "Krama": "Tumut"
+  },
+  {
+    "Bahasa Indonesia": "Inti",
+    "Ngoko": "Inti",
+    "Krama": "Inti"
+  },
+  {
+    "Bahasa Indonesia": "Isi",
+    "Ngoko": "Isi",
+    "Krama": "Isi"
+  },
+  {
+    "Bahasa Indonesia": "Jangan khawatir",
+    "Ngoko": "Aja sumelang",
+    "Krama": "Sampun kuwatos"
+  },
+  {
+    "Bahasa Indonesia": "Jauh sekali",
+    "Ngoko": "Adoh banget",
+    "Krama": "Tebih sanget"
+  },
+  {
+    "Bahasa Indonesia": "Jumlah",
+    "Ngoko": "Cacah",
+    "Krama": "Wicalan"
+  },
+  {
+    "Bahasa Indonesia": "Kabar",
+    "Ngoko": "Kabar",
+    "Krama": "Kabar"
+  },
+  {
+    "Bahasa Indonesia": "Kaget",
+    "Ngoko": "Kagèt",
+    "Krama": "Kagèt"
+  },
+  {
+    "Bahasa Indonesia": "Kapan-kapan",
+    "Ngoko": "Kapan-kapan",
+    "Krama": "Kapan-kapan"
+  },
+  {
+    "Bahasa Indonesia": "Kasihan",
+    "Ngoko": "Kélangan",
+    "Krama": "Kêlangan"
+  },
+  {
+    "Bahasa Indonesia": "Keadaan",
+    "Ngoko": "Kahanan",
+    "Krama": "Kawontênan"
+  },
+  {
+    "Bahasa Indonesia": "Keinginan",
+    "Ngoko": "Karep",
+    "Krama": "Kêpengin"
+  },
+  {
+    "Bahasa Indonesia": "Keluar",
+    "Ngoko": "Mêtu",
+    "Krama": "Wêdal"
+  },
+  {
+    "Bahasa Indonesia": "Kembali lagi",
+    "Ngoko": "Bali manèh",
+    "Krama": "Wangsul malih"
+  },
+  {
+    "Bahasa Indonesia": "Kesalahan",
+    "Ngoko": "Kaluputan",
+    "Krama": "Kêlèntuan"
+  },
+  {
+    "Bahasa Indonesia": "Kesempatan",
+    "Ngoko": "Kêsêmpatan",
+    "Krama": "Wêkdal"
+  },
+  {
+    "Bahasa Indonesia": "Ketahui",
+    "Ngoko": "Ngerti",
+    "Krama": "Ngertos"
+  },
+  {
+    "Bahasa Indonesia": "Kini",
+    "Ngoko": "Saiki",
+    "Krama": "Sapunika"
+  },
+  {
+    "Bahasa Indonesia": "Kosong",
+    "Ngoko": "Kothong",
+    "Krama": "Suwung"
+  },
+  {
+    "Bahasa Indonesia": "Kuatir",
+    "Ngoko": "Kuatir",
+    "Krama": "Kuwatos"
+  },
+  {
+    "Bahasa Indonesia": "Kurang lebih",
+    "Ngoko": "Kurang luwih",
+    "Krama": "Kirang langkung"
+  },
+  {
+    "Bahasa Indonesia": "Lain",
+    "Ngoko": "Liyané",
+    "Krama": "Sanèsipun"
+  },
+  {
+    "Bahasa Indonesia": "Lambat",
+    "Ngoko": "Alon",
+    "Krama": "Saréh"
+  },
+  {
+    "Bahasa Indonesia": "Lupa ingatan",
+    "Ngoko": "Lali",
+    "Krama": "Supe"
+  },
+  {
+    "Bahasa Indonesia": "Makan malam",
+    "Ngoko": "Mangan bêngi",
+    "Krama": "Nêdha dalu"
+  },
+  {
+    "Bahasa Indonesia": "Mampu",
+    "Ngoko": "Kêkuwatan",
+    "Krama": "Kiyat"
+  },
+  {
+    "Bahasa Indonesia": "Masalah",
+    "Ngoko": "Urusan",
+    "Krama": "Perkawis"
+  },
+  {
+    "Bahasa Indonesia": "Masa depan",
+    "Ngoko": "Bésuk",
+    "Krama": "Benjing"
+  },
+  {
+    "Bahasa Indonesia": "Meskipun",
+    "Ngoko": "Sanajan",
+    "Krama": "Sanadyan"
+  },
+  {
+    "Bahasa Indonesia": "Minta tolong",
+    "Ngoko": "Njaluk tulung",
+    "Krama": "Nyuwun pitulungan"
+  },
+  {
+    "Bahasa Indonesia": "Mungkin saja",
+    "Ngoko": "Mbokmênawa",
+    "Krama": "Mênggah"
+  },
+  {
+    "Bahasa Indonesia": "Nama panggilan",
+    "Ngoko": "Celukane",
+    "Krama": "Timbalanipun"
+  },
+  {
+    "Bahasa Indonesia": "Nanti malam",
+    "Ngoko": "Mengko bêngi",
+    "Krama": "Benjing dalu"
+  },
+  {
+    "Bahasa Indonesia": "Nyaris",
+    "Ngoko": "Meh",
+    "Krama": "Kinten-kinten"
+  },
+  {
+    "Bahasa Indonesia": "Oleh-oleh",
+    "Ngoko": "Oleh-oleh",
+    "Krama": "Oleh-oleh"
+  },
+  {
+    "Bahasa Indonesia": "Pagi sekali",
+    "Ngoko": "Ésuk banget",
+    "Krama": "Enjing sanget"
+  },
+  {
+    "Bahasa Indonesia": "Paling",
+    "Ngoko": "Paling",
+    "Krama": "Ingkang"
+  },
+  {
+    "Bahasa Indonesia": "Pelajaran",
+    "Ngoko": "Piwulang",
+    "Krama": "Piwucal"
+  },
+  {
+    "Bahasa Indonesia": "Pelan-pelan",
+    "Ngoko": "Alon-alon",
+    "Krama": "Saréh-saréh"
+  },
+  {
+    "Bahasa Indonesia": "Penting",
+    "Ngoko": "Penting",
+    "Krama": "Pênting"
+  },
+  {
+    "Bahasa Indonesia": "Percuma",
+    "Ngoko": "Ora ana gunané",
+    "Krama": "Botên wontên pigunanipun"
+  },
+  {
+    "Bahasa Indonesia": "Perlu",
+    "Ngoko": "Butuh",
+    "Krama": "Prêlu"
+  },
+  {
+    "Bahasa Indonesia": "Pesan (surat)",
+    "Ngoko": "Layang",
+    "Krama": "Sêrat"
+  },
+  {
+    "Bahasa Indonesia": "Pintu belakang",
+    "Ngoko": "Lawang mburi",
+    "Krama": "Lêbêt wingking"
+  },
+  {
+    "Bahasa Indonesia": "Pura-pura",
+    "Ngoko": "Kaya-kaya",
+    "Krama": "Kados-kados"
+  },
+  {
+    "Bahasa Indonesia": "Rajin",
+    "Ngoko": "Sêtya",
+    "Krama": "Sêmangat"
+  },
+  {
+    "Bahasa Indonesia": "Ramai",
+    "Ngoko": "Ramé",
+    "Krama": "Ramé"
+  },
+  {
+    "Bahasa Indonesia": "Rencana",
+    "Ngoko": "Rencana",
+    "Krama": "Rancangan"
+  },
+  {
+    "Bahasa Indonesia": "Ribut",
+    "Ngoko": "Gègèr",
+    "Krama": "Gègèr"
+  },
+  {
+    "Bahasa Indonesia": "Ringan",
+    "Ngoko": "Ènthèng",
+    "Krama": "Ènthèng"
+  },
+  {
+    "Bahasa Indonesia": "Rokok",
+    "Ngoko": "Udud",
+    "Krama": "Sês"
+  },
+  {
+    "Bahasa Indonesia": "Rugi",
+    "Ngoko": "Rugi",
+    "Krama": "Kêcalan"
+  },
+  {
+    "Bahasa Indonesia": "Sahabat",
+    "Ngoko": "Konco kenthel",
+    "Krama": "Mitra kinasih"
+  },
+  {
+    "Bahasa Indonesia": "Sama-sama",
+    "Ngoko": "Padha-padha",
+    "Krama": "Sami-sami"
+  },
+  {
+    "Bahasa Indonesia": "Sangat baik",
+    "Ngoko": "Apik banget",
+    "Krama": "Sae sanget"
+  },
+  {
+    "Bahasa Indonesia": "Satu",
+    "Ngoko": "Siji",
+    "Krama": "Setunggal"
+  },
+  {
+    "Bahasa Indonesia": "Saya kira",
+    "Ngoko": "Tak kira",
+    "Krama": "Kula kinten"
+  },
+  {
+    "Bahasa Indonesia": "Sebelah",
+    "Ngoko": "Sisi",
+    "Krama": "Sisi"
+  },
+  {
+    "Bahasa Indonesia": "Segera",
+    "Ngoko": "Gêgêrahan",
+    "Krama": "Ênggal"
+  },
+  {
+    "Bahasa Indonesia": "Sejak",
+    "Ngoko": "Wiwit",
+    "Krama": "Wiwit"
+  },
+  {
+    "Bahasa Indonesia": "Selesai",
+    "Ngoko": "Rampung",
+    "Krama": "Purna"
+  },
+  {
+    "Bahasa Indonesia": "Semalam",
+    "Ngoko": "Kaping",
+    "Krama": "Kala dalu"
+  },
+  {
+    "Bahasa Indonesia": "Semoga",
+    "Ngoko": "Muga-muga",
+    "Krama": "Mugi-mugi"
+  },
+  {
+    "Bahasa Indonesia": "Sempurna",
+    "Ngoko": "Sampurna",
+    "Krama": "Sampurna"
+  },
+  {
+    "Bahasa Indonesia": "Sendiri",
+    "Ngoko": "Dhéwé",
+    "Krama": "Piyambak"
+  },
+  {
+    "Bahasa Indonesia": "Sering",
+    "Ngoko": "Asring",
+    "Krama": "Asring"
+  },
+  {
+    "Bahasa Indonesia": "Siang hari",
+    "Ngoko": "Wayah awan",
+    "Krama": "Wêkdal siyang"
+  },
+  {
+    "Bahasa Indonesia": "Sini sebentar",
+    "Ngoko": "Kéné sithik",
+    "Krama": "Ngriki sekêdhap"
+  },
+  {
+    "Bahasa Indonesia": "Sopan",
+    "Ngoko": "Sopan",
+    "Krama": "Sopan"
+  },
+  {
+    "Bahasa Indonesia": "Suami istri",
+    "Ngoko": "Bojo",
+    "Krama": "Semah"
+  },
+  {
+    "Bahasa Indonesia": "Subuh",
+    "Ngoko": "Subuh",
+    "Krama": "Subuh"
+  },
+  {
+    "Bahasa Indonesia": "Sudah lama",
+    "Ngoko": "Wis suwé",
+    "Krama": "Sampun dangu"
+  },
+  {
+    "Bahasa Indonesia": "Sungguh",
+    "Ngoko": "Tenan",
+    "Krama": "Sanyata"
+  },
+  {
+    "Bahasa Indonesia": "Susah",
+    "Ngoko": "Susah",
+    "Krama": "Sisah"
+  },
+  {
+    "Bahasa Indonesia": "Tadi",
+    "Ngoko": "Mau",
+    "Krama": "Wau"
+  },
+  {
+    "Bahasa Indonesia": "Taman",
+    "Ngoko": "Kebon",
+    "Krama": "Patamanan"
+  },
+  {
+    "Bahasa Indonesia": "Tampak",
+    "Ngoko": "Katon",
+    "Krama": "Katingal"
+  },
+  {
+    "Bahasa Indonesia": "Tentu",
+    "Ngoko": "Mesti",
+    "Krama": "Têmtu"
+  },
+  {
+    "Bahasa Indonesia": "Terakhir",
+    "Ngoko": "Pungkasan",
+    "Krama": "Pungkasan"
+  },
+  {
+    "Bahasa Indonesia": "Terkadang",
+    "Ngoko": "Kadhangkala",
+    "Krama": "Kala-kala"
+  },
+  {
+    "Bahasa Indonesia": "Terlalu",
+    "Ngoko": "Kêsusu",
+    "Krama": "Kêsusu"
+  },
+  {
+    "Bahasa Indonesia": "Terus terang",
+    "Ngoko": "Blaka",
+    "Krama": "Blaka"
+  },
+  {
+    "Bahasa Indonesia": "Tetangga",
+    "Ngoko": "Tangga",
+    "Krama": "Tanggi"
+  },
+  {
+    "Bahasa Indonesia": "Tidak apa-apa",
+    "Ngoko": "Ora apa-apa",
+    "Krama": "Botên dados punapa"
+  },
+  {
+    "Bahasa Indonesia": "Tidak mungkin",
+    "Ngoko": "Ora mungkin",
+    "Krama": "Botên mungkin"
+  },
+  {
+    "Bahasa Indonesia": "Tinggal",
+    "Ngoko": "Ngon",
+    "Krama": "Ngon"
+  },
+  {
+    "Bahasa Indonesia": "Tolong bantu",
+    "Ngoko": "Tulung bantu",
+    "Krama": "Pitulung biyantu"
+  },
+  {
+    "Bahasa Indonesia": "Tumbuh",
+    "Ngoko": "Thukul",
+    "Krama": "Thukul"
+  },
+  {
+    "Bahasa Indonesia": "Turun",
+    "Ngoko": "Mudhun",
+    "Krama": "Mêdal"
+  },
+  {
+    "Bahasa Indonesia": "Ujung",
+    "Ngoko": "Ujung",
+    "Krama": "Pucuk"
+  },
+  {
+    "Bahasa Indonesia": "Umur",
+    "Ngoko": "Umur",
+    "Krama": "Yuswa"
+  },
+  {
+    "Bahasa Indonesia": "Usia muda",
+    "Ngoko": "Umur enom",
+    "Krama": "Yuswa timur"
+  },
+  {
+    "Bahasa Indonesia": "Utama",
+    "Ngoko": "Utama",
+    "Krama": "Utami"
+  },
+  {
+    "Bahasa Indonesia": "Wajib",
+    "Ngoko": "Wajib",
+    "Krama": "Kêwajiban"
+  },
+  {
+    "Bahasa Indonesia": "Walaupun",
+    "Ngoko": "Sanajan",
+    "Krama": "Sanadyan"
+  },
+  {
+    "Bahasa Indonesia": "Warna-warni",
+    "Ngoko": "Werna-werna",
+    "Krama": "Warnaning warni"
+  },
+  {
+    "Bahasa Indonesia": "Waspada",
+    "Ngoko": "Ngati-ati",
+    "Krama": "Waspada"
+  },
+  {
+    "Bahasa Indonesia": "Yang",
+    "Ngoko": "Sing",
+    "Krama": "Ingkang"
+  },
+  {
+    "Bahasa Indonesia": "Yakin",
+    "Ngoko": "Yakin",
+    "Krama": "Yakin"
+  },
+  {
+    "Bahasa Indonesia": "Zaman",
+    "Ngoko": "Jaman",
+    "Krama": "Jaman"
+  },
+  
+  {
+    "Bahasa Indonesia": "Abadi",
+    "Ngoko": "Langêng",
+    "Krama": "Langêng"
+  },
+  {
+    "Bahasa Indonesia": "Anggap",
+    "Ngoko": "Anggep",
+    "Krama": "Anggêp"
+  },
+  {
+    "Bahasa Indonesia": "Asal",
+    "Ngoko": "Asal",
+    "Krama": "Asal"
+  },
+  {
+    "Bahasa Indonesia": "Awan gelap",
+    "Ngoko": "Mêndhung",
+    "Krama": "Mêgat-mêgot"
+  },
+  {
+    "Bahasa Indonesia": "Bahaya",
+    "Ngoko": "Baya",
+    "Krama": "Baya"
+  },
+  {
+    "Bahasa Indonesia": "Bakat",
+    "Ngoko": "Kautaman",
+    "Krama": "Kautaman"
+  },
+  {
+    "Bahasa Indonesia": "Balas",
+    "Ngoko": "Wales",
+    "Krama": "Wangsulana"
+  },
+  {
+    "Bahasa Indonesia": "Bangun",
+    "Ngoko": "Tangèk",
+    "Krama": "Wungu"
+  },
+  {
+    "Bahasa Indonesia": "Batas",
+    "Ngoko": "Wates",
+    "Krama": "Wates"
+  },
+  {
+    "Bahasa Indonesia": "Bekas",
+    "Ngoko": "Tilás",
+    "Krama": "Tilasan"
+  },
+  {
+    "Bahasa Indonesia": "Benih",
+    "Ngoko": "Wiji",
+    "Krama": "Wiji"
+  },
+  {
+    "Bahasa Indonesia": "Berani",
+    "Ngoko": "Wani",
+    "Krama": "Wantun"
+  },
+  {
+    "Bahasa Indonesia": "Berarti",
+    "Ngoko": "Artiné",
+    "Krama": "Tegêsipun"
+  },
+  {
+    "Bahasa Indonesia": "Berbagi",
+    "Ngoko": "Pédah",
+    "Krama": "Pédah"
+  },
+  {
+    "Bahasa Indonesia": "Berhasil",
+    "Ngoko": "Kasíl",
+    "Krama": "Kasil"
+  },
+  {
+    "Bahasa Indonesia": "Berjanji",
+    "Ngoko": "Janji",
+    "Krama": "Janji"
+  },
+  {
+    "Bahasa Indonesia": "Berkata",
+    "Ngoko": "Ngomong",
+    "Krama": "Ngêndika",
+    "Krama Inggil": "Ngandika"
+  },
+  {
+    "Bahasa Indonesia": "Berkenalan",
+    "Ngoko": "Kenalan",
+    "Krama": "Wanuhan"
+  },
+  {
+    "Bahasa Indonesia": "Berlalu",
+    "Ngoko": "Liwat",
+    "Krama": "Langkung"
+  },
+  {
+    "Bahasa Indonesia": "Bersih",
+    "Ngoko": "Rêsik",
+    "Krama": "Rêsik"
+  },
+  {
+    "Bahasa Indonesia": "Besok pagi",
+    "Ngoko": "Ésuk",
+    "Krama": "Enjing"
+  },
+  {
+    "Bahasa Indonesia": "Biasanya",
+    "Ngoko": "Biasané",
+    "Krama": "Lumrahé"
+  },
+  {
+    "Bahasa Indonesia": "Bodoh (kasar)",
+    "Ngoko": "Goblok",
+    "Krama": "Kirang pangertosan"
+  },
+  {
+    "Bahasa Indonesia": "Bosan",
+    "Ngoko": "Bosen",
+    "Krama": "Bosan"
+  },
+  {
+    "Bahasa Indonesia": "Buat apa",
+    "Ngoko": "Kanggo apa",
+    "Krama": "Kangge punapa"
+  },
+  {
+    "Bahasa Indonesia": "Bukti",
+    "Ngoko": "Bukti",
+    "Krama": "Bukti"
+  },
+  {
+    "Bahasa Indonesia": "Buruk rupa",
+    "Ngoko": "Ora ayu",
+    "Krama": "Kirang sulistya"
+  },
+  {
+    "Bahasa Indonesia": "Cahaya",
+    "Ngoko": "Cahya",
+    "Krama": "Sinar"
+  },
+  {
+    "Bahasa Indonesia": "Campur",
+    "Ngoko": "Campur",
+    "Krama": "Campur"
+  },
+  {
+    "Bahasa Indonesia": "Cara",
+    "Ngoko": "Cara",
+    "Krama": "Cara"
+  },
+  {
+    "Bahasa Indonesia": "Cepat sekali",
+    "Ngoko": "Gancang banget",
+    "Krama": "Enggal sanget"
+  },
+  {
+    "Bahasa Indonesia": "Cukup banyak",
+    "Ngoko": "Lumayan akèh",
+    "Krama": "Lumayan kathah"
+  },
+  {
+    "Bahasa Indonesia": "Curiga",
+    "Ngoko": "Curiga",
+    "Krama": "Sumelang"
+  },
+  {
+    "Bahasa Indonesia": "Dada",
+    "Ngoko": "Dhadha",
+    "Krama Inggil": "Pamidhangan"
+  },
+  {
+    "Bahasa Indonesia": "Dampak",
+    "Ngoko": "Akibat",
+    "Krama": "Akibat"
+  },
+  {
+    "Bahasa Indonesia": "Dasar (sifat)",
+    "Ngoko": "Watak",
+    "Krama": "Watak"
+  },
+  {
+    "Bahasa Indonesia": "Demi",
+    "Ngoko": "Demi",
+    "Krama": "Dèmi"
+  },
+  {
+    "Bahasa Indonesia": "Dengan",
+    "Ngoko": "Karo",
+    "Krama": "Kaliyan"
+  },
+  {
+    "Bahasa Indonesia": "Didik",
+    "Ngoko": "Dhidhik",
+    "Krama": "Dhidhik"
+  },
+  {
+    "Bahasa Indonesia": "Dingin sekali",
+    "Ngoko": "Adhem banget",
+    "Krama": "Asrep sanget"
+  },
+  {
+    "Bahasa Indonesia": "Doa",
+    "Ngoko": "Donga",
+    "Krama": "Donga"
+  },
+  {
+    "Bahasa Indonesia": "Dosa",
+    "Ngoko": "Dosa",
+    "Krama": "Dosa"
+  },
+  {
+    "Bahasa Indonesia": "Dunia lain",
+    "Ngoko": "Alam liya",
+    "Krama": "Jagad sanès"
+  },
+  {
+    "Bahasa Indonesia": "Emas",
+    "Ngoko": "Emas",
+    "Krama": "Jene"
+  },
+  {
+    "Bahasa Indonesia": "Gagal",
+    "Ngoko": "Gagal",
+    "Krama": "Gagal"
+  },
+  {
+    "Bahasa Indonesia": "Ganti",
+    "Ngoko": "Ganti",
+    "Krama": "Gantos"
+  },
+  {
+    "Bahasa Indonesia": "Gelombang",
+    "Ngoko": "Gêlombang",
+    "Krama": "Gêlombang"
+  },
+  {
+    "Bahasa Indonesia": "Gembira sekali",
+    "Ngoko": "Seneng banget",
+    "Krama": "Suka sanget"
+  },
+  {
+    "Bahasa Indonesia": "Generasi",
+    "Ngoko": "Turunan",
+    "Krama": "Turunan"
+  },
+  {
+    "Bahasa Indonesia": "Gerakan",
+    "Ngoko": "Obahan",
+    "Krama": "Obahan"
+  },
+  {
+    "Bahasa Indonesia": "Gugur",
+    "Ngoko": "Gugur",
+    "Krama": "Gugur"
+  },
+  {
+    "Bahasa Indonesia": "Hak",
+    "Ngoko": "Hak",
+    "Krama": "Hak"
+  },
+  {
+    "Bahasa Indonesia": "Hampir",
+    "Ngoko": "Mèh",
+    "Krama": "Kinten-kinten"
+  },
+  {
+    "Bahasa Indonesia": "Harga diri",
+    "Ngoko": "Ajining dhiri",
+    "Krama": "Aosing badan"
+  },
+  {
+    "Bahasa Indonesia": "Hasil",
+    "Ngoko": "Asil",
+    "Krama": "Asil"
+  },
+  {
+    "Bahasa Indonesia": "Hina",
+    "Ngoko": "Réndah",
+    "Krama": "Asor"
+  },
+  {
+    "Bahasa Indonesia": "Hutang",
+    "Ngoko": "Utang",
+    "Krama": "Sambut"
+  },
+  {
+    "Bahasa Indonesia": "Ibadah",
+    "Ngoko": "Ngibadah",
+    "Krama": "Ngibadah"
+  },
+  {
+    "Bahasa Indonesia": "Ikat",
+    "Ngoko": "Bêndhet",
+    "Krama": "Bêndhet"
+  },
+  {
+    "Bahasa Indonesia": "Iman",
+    "Ngoko": "Iman",
+    "Krama": "Iman"
+  },
+  {
+    "Bahasa Indonesia": "Indah",
+    "Ngoko": "Apik",
+    "Krama": "Éndah"
+  },
+  {
+    "Bahasa Indonesia": "Ingat",
+    "Ngoko": "Éling",
+    "Krama": "Kènget"
+  },
+  {
+    "Bahasa Indonesia": "Inilah",
+    "Ngoko": "Iki lho",
+    "Krama": "Punika lho"
+  },
+  {
+    "Bahasa Indonesia": "Isi hati",
+    "Ngoko": "Isining ati",
+    "Krama": "Rosing manah"
+  },
+  {
+    "Bahasa Indonesia": "Istirahat",
+    "Ngoko": "Lèrèn",
+    "Krama": "Lèrèn"
+  },
+  {
+    "Bahasa Indonesia": "Itulah",
+    "Ngoko": "Iku lho",
+    "Krama": "Samenika lho"
+  },
+  {
+    "Bahasa Indonesia": "Jahat",
+    "Ngoko": "Ala",
+    "Krama": "Awak"
+  },
+  {
+    "Bahasa Indonesia": "Jalan-jalan",
+    "Ngoko": "Mlaku-mlaku",
+    "Krama": "Mlampah-mlampah"
+  },
+  {
+    "Bahasa Indonesia": "Jaman dahulu",
+    "Ngoko": "Jaman biyèn",
+    "Krama": "Jaman rumiyin"
+  },
+  {
+    "Bahasa Indonesia": "Janji temu",
+    "Ngoko": "Janji kêtêmu",
+    "Krama": "Janji pinanggih"
+  },
+  {
+    "Bahasa Indonesia": "Jejak",
+    "Ngoko": "Jejak",
+    "Krama": "Lacak"
+  },
+  {
+    "Bahasa Indonesia": "Jika tidak",
+    "Ngoko": "Nèk ora",
+    "Krama": "Manawi botên"
+  },
+  {
+    "Bahasa Indonesia": "Jiwa",
+    "Ngoko": "Nyawa",
+    "Krama": "Nyawa"
+  },
+  {
+    "Bahasa Indonesia": "Jujur",
+    "Ngoko": "Jujur",
+    "Krama": "Jujur"
+  },
+  {
+    "Bahasa Indonesia": "Kabupaten",
+    "Ngoko": "Kabupatèn",
+    "Krama": "Kabupatèn"
+  },
+  {
+    "Bahasa Indonesia": "Kagum",
+    "Ngoko": "Kagum",
+    "Krama": "Kagum"
+  },
+  {
+    "Bahasa Indonesia": "Kakek",
+    "Ngoko": "Éyang kakung",
+    "Krama": "Éyang kakung"
+  },
+  {
+    "Bahasa Indonesia": "Kambing",
+    "Ngoko": "Mèmbè",
+    "Krama": "Mèmbè"
+  },
+  {
+    "Bahasa Indonesia": "Kampung",
+    "Ngoko": "Désa",
+    "Krama": "Dhusun"
+  },
+  {
+    "Bahasa Indonesia": "Kandang",
+    "Ngoko": "Kandhang",
+    "Krama": "Kandhang"
+  },
+  {
+    "Bahasa Indonesia": "Kangen sekali",
+    "Ngoko": "Kangen banget",
+    "Krama": "Kagèt manah sanget"
+  },
+  {
+    "Bahasa Indonesia": "Kapan saja",
+    "Ngoko": "Kapan waé",
+    "Krama": "Kapan kemawon"
+  },
+  {
+    "Bahasa Indonesia": "Kapital",
+    "Ngoko": "Kapital",
+    "Krama": "Kapital"
+  },
+  {
+    "Bahasa Indonesia": "Karya",
+    "Ngoko": "Karya",
+    "Krama": "Karya"
+  },
+  {
+    "Bahasa Indonesia": "Kasih sayang",
+    "Ngoko": "Trêsna asih",
+    "Krama": "Trêsna asih"
+  },
+  {
+    "Bahasa Indonesia": "Ke bawah",
+    "Ngoko": "Ngisor",
+    "Krama": "Andhap"
+  },
+  {
+    "Bahasa Indonesia": "Ke sana",
+    "Ngoko": "Mrana",
+    "Krama": "Mrika"
+  },
+  {
+    "Bahasa Indonesia": "Ke sini",
+    "Ngoko": "Mréné",
+    "Krama": "Mrêki"
+  },
+  {
+    "Bahasa Indonesia": "Ke atas",
+    "Ngoko": "Nduwur",
+    "Krama": "Inggil"
+  },
+  {
+    "Bahasa Indonesia": "Keadaan baik",
+    "Ngoko": "Kahanan apik",
+    "Krama": "Kawontênan sae"
+  },
+  {
+    "Bahasa Indonesia": "Kecewa",
+    "Ngoko": "Kuciwa",
+    "Krama": "Kuciwa"
+  },
+  {
+    "Bahasa Indonesia": "Kegiatan",
+    "Ngoko": "Kegiatan",
+    "Krama": "Kagiyatan"
+  },
+  {
+    "Bahasa Indonesia": "Kehilangan",
+    "Ngoko": "Kélangan",
+    "Krama": "Kêcalan"
+  },
+  {
+    "Bahasa Indonesia": "Keinginan kuat",
+    "Ngoko": "Nafsu",
+    "Krama": "Nafsu"
+  },
+  {
+    "Bahasa Indonesia": "Kejam",
+    "Ngoko": "Kejem",
+    "Krama": "Kejem"
+  },
+  {
+    "Bahasa Indonesia": "Kelompok",
+    "Ngoko": "Klompok",
+    "Krama": "Klompok"
+  },
+  {
+    "Bahasa Indonesia": "Kemanusiaan",
+    "Ngoko": "Kamanungsan",
+    "Krama": "Kamanungsan"
+  },
+  {
+    "Bahasa Indonesia": "Kemauan",
+    "Ngoko": "Karep",
+    "Krama": "Kêpengin"
+  },
+  {
+    "Bahasa Indonesia": "Kemenangan",
+    "Ngoko": "Kamenangan",
+    "Krama": "Kamenangan"
+  },
+  {
+    "Bahasa Indonesia": "Kemudian hari",
+    "Ngoko": "Mbésuk",
+    "Krama": "Benjing"
+  },
+  {
+    "Bahasa Indonesia": "Kenangan",
+    "Ngoko": "Kênangan",
+    "Krama": "Kèngetan"
+  },
+  {
+    "Bahasa Indonesia": "Kenyataan",
+    "Ngoko": "Nyata",
+    "Krama": "Nyata"
+  },
+  {
+    "Bahasa Indonesia": "Kerajaan",
+    "Ngoko": "Kraton",
+    "Krama Inggil": "Karaton"
+  },
+  
+  {
+    "Bahasa Indonesia": "Keramaian",
+    "Ngoko": "Kraméan",
+    "Krama": "Kraméan"
+  },
+  {
+    "Bahasa Indonesia": "Keranjang",
+    "Ngoko": "Kranjang",
+    "Krama": "Kranjang"
+  },
+  {
+    "Bahasa Indonesia": "Kerja keras",
+    "Ngoko": "Nyambut gawé abot",
+    "Krama": "Nyambut damêl awrat"
+  },
+  {
+    "Bahasa Indonesia": "Kesalahan besar",
+    "Ngoko": "Kaluputan gedhe",
+    "Krama": "Kêlèntuan agêng"
+  },
+  {
+    "Bahasa Indonesia": "Kesempatan emas",
+    "Ngoko": "Kêsêmpatan apik",
+    "Krama": "Wêkdal sae"
+  },
+  {
+    "Bahasa Indonesia": "Ketakutan",
+    "Ngoko": "Wedhi",
+    "Krama": "Ajrih"
+  },
+  {
+    "Bahasa Indonesia": "Ketentuan",
+    "Ngoko": "Pathokan",
+    "Krama": "Pathokan"
+  },
+  {
+    "Bahasa Indonesia": "Khusus",
+    "Ngoko": "Khusus",
+    "Krama": "Khusus"
+  },
+  {
+    "Bahasa Indonesia": "Kisah",
+    "Ngoko": "Dongèng",
+    "Krama": "Cariyos"
+  },
+  {
+    "Bahasa Indonesia": "Kualitas",
+    "Ngoko": "Mutu",
+    "Krama": "Mutu"
+  },
+  {
+    "Bahasa Indonesia": "Kumpulan",
+    "Ngoko": "Kumpulan",
+    "Krama": "Kêmpalan"
+  },
+  {
+    "Bahasa Indonesia": "Kunci",
+    "Ngoko": "Kunci",
+    "Krama": "Kunci"
+  },
+  {
+    "Bahasa Indonesia": "Kuno",
+    "Ngoko": "Kuna",
+    "Krama": "Kuna"
+  },
+  {
+    "Bahasa Indonesia": "Kurus",
+    "Ngoko": "Kuru",
+    "Krama": "Kêmpès"
+  },
+  {
+    "Bahasa Indonesia": "Kewajiban",
+    "Ngoko": "Kuduné",
+    "Krama": "Kêwajiban"
+  },
+  {
+    "Bahasa Indonesia": "Lahir",
+    "Ngoko": "Lair",
+    "Krama Inggil": "Miyos"
+  },
+  {
+    "Bahasa Indonesia": "Langkah",
+    "Ngoko": "Langkah",
+    "Krama": "Lêngkah"
+  },
+  {
+    "Bahasa Indonesia": "Langit",
+    "Ngoko": "Langit",
+    "Krama": "Akasa"
+  },
+  {
+    "Bahasa Indonesia": "Larangan",
+    "Ngoko": "Ora éntuk",
+    "Krama": "Botên kénging"
+  },
+  {
+    "Bahasa Indonesia": "Lawan",
+    "Ngoko": "Mungsuh",
+    "Krama": "Mêngsah"
+  },
+  {
+    "Bahasa Indonesia": "Layak",
+    "Ngoko": "Pantes",
+    "Krama": "Prayogi"
+  },
+  {
+    "Bahasa Indonesia": "Lembah",
+    "Ngoko": "Lembah",
+    "Krama": "Lêmbah"
+  },
+  {
+    "Bahasa Indonesia": "Lembut",
+    "Ngoko": "Alus",
+    "Krama": "Alus"
+  },
+  {
+    "Bahasa Indonesia": "Lenyap",
+    "Ngoko": "Ilang",
+    "Krama": "Kical"
+  },
+  {
+    "Bahasa Indonesia": "Lihatlah",
+    "Ngoko": "Deloken",
+    "Krama": "Sumangga dipunpirsani"
+  },
+  {
+    "Bahasa Indonesia": "Lingkungan",
+    "Ngoko": "Lingkungan",
+    "Krama": "Lingkungan"
+  },
+  {
+    "Bahasa Indonesia": "Lomba",
+    "Ngoko": "Lomba",
+    "Krama": "Lomba"
+  },
+  {
+    "Bahasa Indonesia": "Lucu",
+    "Ngoko": "Lucu",
+    "Krama": "Lucu"
+  },
+  {
+    "Bahasa Indonesia": "Luka",
+    "Ngoko": "Tatu",
+    "Krama": "Tatu"
+  },
+  {
+    "Bahasa Indonesia": "Lupa diri",
+    "Ngoko": "Kêsasar",
+    "Krama": "Kêsasar"
+  },
+  {
+    "Bahasa Indonesia": "Lusa",
+    "Ngoko": "Sesuké",
+    "Krama": "Benjingipun"
+  },
+  {
+    "Bahasa Indonesia": "Maafkan",
+    "Ngoko": "Ngapurani",
+    "Krama": "Ngapuntêni"
+  },
+  {
+    "Bahasa Indonesia": "Mahal",
+    "Ngoko": "Larang",
+    "Krama": "Awis"
+  },
+  {
+    "Bahasa Indonesia": "Maka",
+    "Ngoko": "Mangka",
+    "Krama": "Mêngka"
+  },
+  {
+    "Bahasa Indonesia": "Makhluk",
+    "Ngoko": "Makhluk",
+    "Krama": "Makhluk"
+  },
+  {
+    "Bahasa Indonesia": "Malam hari",
+    "Ngoko": "Wayah bêngi",
+    "Krama": "Wêkdal dalu"
+  },
+  {
+    "Bahasa Indonesia": "Malas sekali",
+    "Ngoko": "Males banget",
+    "Krama": "Têbih saking kêpenginan sanget"
+  },
+  {
+    "Bahasa Indonesia": "Malu",
+    "Ngoko": "Isin",
+    "Krama": "Lingsem"
+  },
+  {
+    "Bahasa Indonesia": "Mandi besar",
+    "Ngoko": "Adus gêdhé",
+    "Krama": "Siram agêng"
+  },
+  {
+    "Bahasa Indonesia": "Manfaat",
+    "Ngoko": "Gunane",
+    "Krama": "Pigunanipun"
+  },
+  {
+    "Bahasa Indonesia": "Marah",
+    "Ngoko": "Nesu",
+    "Krama": "Duka"
+  },
+  {
+    "Bahasa Indonesia": "Masa kini",
+    "Ngoko": "Saiki iki",
+    "Krama": "Sapunika punika"
+  },
+  {
+    "Bahasa Indonesia": "Masalah besar",
+    "Ngoko": "Urusan gedhe",
+    "Krama": "Perkawis agêng"
+  },
+  {
+    "Bahasa Indonesia": "Masih",
+    "Ngoko": "Isih",
+    "Krama": "Taksih"
+  },
+  {
+    "Bahasa Indonesia": "Mata air",
+    "Ngoko": "Umbul",
+    "Krama": "Toyan"
+  },
+  {
+    "Bahasa Indonesia": "Mata kaki",
+    "Ngoko": "Knuk sikil",
+    "Krama Inggil": "Purukuling suku"
+  },
+  {
+    "Bahasa Indonesia": "Matahari terbit",
+    "Ngoko": "Srengéngé mèntas",
+    "Krama": "Suryo mijil"
+  },
+  {
+    "Bahasa Indonesia": "Matahari terbenam",
+    "Ngoko": "Srengéngé surup",
+    "Krama": "Suryo surup"
+  },
+  {
+    "Bahasa Indonesia": "Materi",
+    "Ngoko": "Bandha",
+    "Krama": "Bandha"
+  },
+  {
+    "Bahasa Indonesia": "Mati lampu",
+    "Ngoko": "Pati listrik",
+    "Krama": "Séda listrik"
+  },
+  {
+    "Bahasa Indonesia": "Maukah?",
+    "Ngoko": "Gelem?",
+    "Krama": "Kêrsa?"
+  },
+  {
+    "Bahasa Indonesia": "Mawar",
+    "Ngoko": "Mawar",
+    "Krama": "Mawar"
+  },
+  {
+    "Bahasa Indonesia": "Melawan",
+    "Ngoko": "Ngalahake",
+    "Krama": "Ngawonakên"
+  },
+  {
+    "Bahasa Indonesia": "Melewati",
+    "Ngoko": "Ngliwati",
+    "Krama": "Nglangkungi"
+  },
+  {
+    "Bahasa Indonesia": "Membantu",
+    "Ngoko": "Mbantu",
+    "Krama": "Mbiyantu"
+  },
+  {
+    "Bahasa Indonesia": "Membayar",
+    "Ngoko": "Mbayar",
+    "Krama": "Mbayar"
+  },
+  {
+    "Bahasa Indonesia": "Membela",
+    "Ngoko": "Mbélani",
+    "Krama": "Mbélani"
+  },
+  {
+    "Bahasa Indonesia": "Memberi",
+    "Ngoko": "Mènèhi",
+    "Krama": "Nyukani",
+    "Krama Inggil": "Maringi"
+  },
+  {
+    "Bahasa Indonesia": "Membuat",
+    "Ngoko": "Nggawé",
+    "Krama": "Ndamêl"
+  },
+  {
+    "Bahasa Indonesia": "Memegang",
+    "Ngoko": "Nyekel",
+    "Krama": "Ngasta"
+  },
+  {
+    "Bahasa Indonesia": "Memikirkan",
+    "Ngoko": "Mikiraké",
+    "Krama": "Nggalih"
+  },
+  {
+    "Bahasa Indonesia": "Memilih",
+    "Ngoko": "Milih",
+    "Krama": "Milih"
+  },
+  {
+    "Bahasa Indonesia": "Meminta-minta",
+    "Ngoko": "Njaluk-njaluk",
+    "Krama": "Nyuwun-nyuwun"
+  },
+  {
+    "Bahasa Indonesia": "Memutuskan",
+    "Ngoko": "Mutusaké",
+    "Krama": "Mutusaken"
+  },
+  {
+    "Bahasa Indonesia": "Menang",
+    "Ngoko": "Menang",
+    "Krama": "Menang"
+  },
+  {
+    "Bahasa Indonesia": "Menanti",
+    "Ngoko": "Ngêntèni",
+    "Krama": "Ngantos-antos"
+  },
+  {
+    "Bahasa Indonesia": "Mencintai",
+    "Ngoko": "Ngrêsna",
+    "Krama": "Ngrêsna"
+  },
+  {
+    "Bahasa Indonesia": "Mencium",
+    "Ngoko": "Ngambung",
+    "Krama Inggil": "Ngaras"
+  },
+  {
+    "Bahasa Indonesia": "Mencoba",
+    "Ngoko": "Nyoba",
+    "Krama": "Nyobi"
+  },
+  {
+    "Bahasa Indonesia": "Menemukan",
+    "Ngoko": "Nêmu",
+    "Krama": "Pinanggih"
+  },
+  {
+    "Bahasa Indonesia": "Mengerti",
+    "Ngoko": "Ngerti",
+    "Krama": "Ngertos"
+  },
+  {
+    "Bahasa Indonesia": "Mengikuti",
+    "Ngoko": "Ngetutaké",
+    "Krama": "Ndherekakên"
+  },
+  {
+    "Bahasa Indonesia": "Menghadap",
+    "Ngoko": "Madhep",
+    "Krama": "Ngajêng"
+  },
+  {
+    "Bahasa Indonesia": "Menghargai",
+    "Ngoko": "Ngrêgani",
+    "Krama": "Ngrêgani"
+  },
+  {
+    "Bahasa Indonesia": "Menikah",
+    "Ngoko": "Krama",
+    "Krama Inggil": "Krama"
+  },
+  {
+    "Bahasa Indonesia": "Menjelaskan",
+    "Ngoko": "Njlentrehaké",
+    "Krama": "Njlèntrèhakên"
+  },
+  {
+    "Bahasa Indonesia": "Menolong",
+    "Ngoko": "Nulung",
+    "Krama": "Mitulungi"
+  },
+  {
+    "Bahasa Indonesia": "Menunggu",
+    "Ngoko": "Ngêntèni",
+    "Krama": "Ngêntos"
+  },
+  {
+    "Bahasa Indonesia": "Menyanyi",
+    "Ngoko": "Nembang",
+    "Krama": "Nembang"
+  },
+  {
+    "Bahasa Indonesia": "Menyesal",
+    "Ngoko": "Kêduwung",
+    "Krama": "Kêduwung"
+  },
+  {
+    "Bahasa Indonesia": "Merasa",
+    "Ngoko": "Krasa",
+    "Krama": "Kraos"
+  },
+  {
+    "Bahasa Indonesia": "Merdeka",
+    "Ngoko": "Mêrdéka",
+    "Krama": "Mêrdéka"
+  },
+  {
+    "Bahasa Indonesia": "Meski",
+    "Ngoko": "Sanajan",
+    "Krama": "Sanadyan"
+  },
+  {
+    "Bahasa Indonesia": "Mimpi",
+    "Ngoko": "Ngimpi",
+    "Krama": "Ngimpi"
+  },
+  {
+    "Bahasa Indonesia": "Minta izin",
+    "Ngoko": "Njaluk pamit",
+    "Krama": "Nyuwun pamit"
+  },
+  {
+    "Bahasa Indonesia": "Mula-mula",
+    "Ngoko": "Kaping pisan",
+    "Krama": "Ingkang wiwitan"
+  },
+  {
+    "Bahasa Indonesia": "Mulut",
+    "Ngoko": "Cangkêm",
+    "Krama Inggil": "Tutuk"
+  },
+  {
+    "Bahasa Indonesia": "Mungkin benar",
+    "Ngoko": "Mbokmênawa bener",
+    "Krama": "Mênggah leres"
+  },
+  {
+    "Bahasa Indonesia": "Musim",
+    "Ngoko": "Mangsa",
+    "Krama": "Mangsa"
+  },
+  {
+    "Bahasa Indonesia": "Musuh",
+    "Ngoko": "Satru",
+    "Krama": "Mêngsah"
+  },
+  {
+    "Bahasa Indonesia": "Naik haji",
+    "Ngoko": "Munggah kaji",
+    "Krama": "Tindak haji"
+  },
+  {
+    "Bahasa Indonesia": "Napas panjang",
+    "Ngoko": "Ambegan dawa",
+    "Krama": "Ambegan dawi"
+  },
+  {
+    "Bahasa Indonesia": "Nasi",
+    "Ngoko": "Sega",
+    "Krama Inggil": "Sekul"
+  },
+  {
+    "Bahasa Indonesia": "Nasehat",
+    "Ngoko": "Piweling",
+    "Krama": "Piwêling"
+  },
+  {
+    "Bahasa Indonesia": "Nasib",
+    "Ngoko": "Kismat",
+    "Krama": "Kismat"
+  },
+  {
+    "Bahasa Indonesia": "Negeri",
+    "Ngoko": "Nagara",
+    "Krama": "Nêgari"
+  },
+  {
+    "Bahasa Indonesia": "Nelpon",
+    "Ngoko": "Nelpon",
+    "Krama": "Nelpon"
+  },
+  {
+    "Bahasa Indonesia": "Nenek moyang",
+    "Ngoko": "Leluhur",
+    "Krama": "Leluhur"
+  },
+   {
+    "Bahasa Indonesia": "Nilai (angka)",
+    "Ngoko": "Bijhi",
+    "Krama": "Bijhi"
+  },
+  {
+    "Bahasa Indonesia": "Noda",
+    "Ngoko": "Noda",
+    "Krama": "Noda"
+  },
+  {
+    "Bahasa Indonesia": "Nol",
+    "Ngoko": "Nol",
+    "Krama": "Nol"
+  },
+  {
+    "Bahasa Indonesia": "Nyaman",
+    "Ngoko": "Énak",
+    "Krama": "Eca"
+  },
+  {
+    "Bahasa Indonesia": "Nyata",
+    "Ngoko": "Nyata",
+    "Krama": "Nyata"
+  },
+  {
+    "Bahasa Indonesia": "Obat",
+    "Ngoko": "Tamba",
+    "Krama": "Jampi"
+  },
+  {
+    "Bahasa Indonesia": "Oleh karena itu",
+    "Ngoko": "Mulane",
+    "Krama": "Amargi punika"
+  },
+  {
+    "Bahasa Indonesia": "Otak",
+    "Ngoko": "Utêk",
+    "Krama Inggil": "Ènget-èngetan"
+  },
+  {
+    "Bahasa Indonesia": "Padahal",
+    "Ngoko": "Padahal",
+    "Krama": "Nanging"
+  },
+  {
+    "Bahasa Indonesia": "Pagar",
+    "Ngoko": "Pagar",
+    "Krama": "Pagar"
+  },
+  {
+    "Bahasa Indonesia": "Pahlawan",
+    "Ngoko": "Pahlawan",
+    "Krama": "Pahlawan"
+  },
+  {
+    "Bahasa Indonesia": "Pakai (alat)",
+    "Ngoko": "Nganggo",
+    "Krama": "Ngagem"
+  },
+  {
+    "Bahasa Indonesia": "Paman",
+    "Ngoko": "Paman",
+    "Krama": "Paman"
+  },
+  {
+    "Bahasa Indonesia": "Pandai",
+    "Ngoko": "Pinter",
+    "Krama": "Pintêr"
+  },
+  {
+    "Bahasa Indonesia": "Pantai",
+    "Ngoko": "Pasisir",
+    "Krama": "Pasisir"
+  },
+  {
+    "Bahasa Indonesia": "Pasar",
+    "Ngoko": "Pasar",
+    "Krama": "Pêkên"
+  },
+  {
+    "Bahasa Indonesia": "Pasti",
+    "Ngoko": "Mêsti",
+    "Krama": "Têmtu"
+  },
+  {
+    "Bahasa Indonesia": "Patuh",
+    "Ngoko": "Nurut",
+    "Krama": "Manut"
+  },
+  {
+    "Bahasa Indonesia": "Pecah (suara)",
+    "Ngoko": "Pecah",
+    "Krama": "Pecah"
+  },
+  {
+    "Bahasa Indonesia": "Peduli",
+    "Ngoko": "Gagas",
+    "Krama": "Gagas"
+  },
+  {
+    "Bahasa Indonesia": "Pelan",
+    "Ngoko": "Alon",
+    "Krama": "Saréh"
+  },
+  {
+    "Bahasa Indonesia": "Peluk",
+    "Ngoko": "Rangkul",
+    "Krama": "Rangkul"
+  },
+  {
+    "Bahasa Indonesia": "Pemandangan",
+    "Ngoko": "Pangéling-éling",
+    "Krama": "Pangéling-éling"
+  },
+  {
+    "Bahasa Indonesia": "Pemerintah",
+    "Ngoko": "Pamaréntah",
+    "Krama": "Pamaréntah"
+  },
+  {
+    "Bahasa Indonesia": "Pendidikan",
+    "Ngoko": "Pandhidhikan",
+    "Krama": "Pandhidhikan"
+  },
+  {
+    "Bahasa Indonesia": "Penerbangan",
+    "Ngoko": "Mabur",
+    "Krama": "Miyos ngawiyat"
+  },
+  {
+    "Bahasa Indonesia": "Penting sekali",
+    "Ngoko": "Penting banget",
+    "Krama": "Pênting sanget"
+  },
+  {
+    "Bahasa Indonesia": "Penulis",
+    "Ngoko": "Panulis",
+    "Krama": "Panulis"
+  },
+  {
+    "Bahasa Indonesia": "Penyakit",
+    "Ngoko": "Lara",
+    "Krama": "Gêring"
+  },
+  {
+    "Bahasa Indonesia": "Perasaan",
+    "Ngoko": "Rasa",
+    "Krama": "Raos"
+  },
+  {
+    "Bahasa Indonesia": "Peraturan",
+    "Ngoko": "Aturan",
+    "Krama": "Tata cara"
+  },
+  {
+    "Bahasa Indonesia": "Perbedaan",
+    "Ngoko": "Bédané",
+    "Krama": "Bêntenipun"
+  },
+  {
+    "Bahasa Indonesia": "Perbuatan",
+    "Ngoko": "Tumindak",
+    "Krama": "Tumindak"
+  },
+  {
+    "Bahasa Indonesia": "Perdagangan",
+    "Ngoko": "Dagangan",
+    "Krama": "Sadeyan"
+  },
+  {
+    "Bahasa Indonesia": "Perjalanan",
+    "Ngoko": "Lelungan",
+    "Krama": "Lêlampahan"
+  },
+  {
+    "Bahasa Indonesia": "Perjuangan",
+    "Ngoko": "Perjuangan",
+    "Krama": "Perjuangan"
+  },
+  {
+    "Bahasa Indonesia": "Perkara",
+    "Ngoko": "Urusan",
+    "Krama": "Perkawis"
+  },
+  {
+    "Bahasa Indonesia": "Perkiraan",
+    "Ngoko": "Kira-kira",
+    "Krama": "Kinten-kinten"
+  },
+  {
+    "Bahasa Indonesia": "Perlahan",
+    "Ngoko": "Alon-alon",
+    "Krama": "Saréh-saréh"
+  },
+  {
+    "Bahasa Indonesia": "Permintaan",
+    "Ngoko": "Panyuwunan",
+    "Krama": "Panyuwunan"
+  },
+  {
+    "Bahasa Indonesia": "Persahabatan",
+    "Ngoko": "Paseduluran",
+    "Krama": "Pasedhèrèkan"
+  },
+  {
+    "Bahasa Indonesia": "Persis",
+    "Ngoko": "Pasis",
+    "Krama": "Persis"
+  },
+  {
+    "Bahasa Indonesia": "Pertama",
+    "Ngoko": "Kaping pisan",
+    "Krama": "Ingkang sepisan"
+  },
+  {
+    "Bahasa Indonesia": "Pertanyaan",
+    "Ngoko": "Pitakonan",
+    "Krama": "Pitakenan"
+  },
+  {
+    "Bahasa Indonesia": "Pesan (nasihat)",
+    "Ngoko": "Weling",
+    "Krama": "Piwêling"
+  },
+  {
+    "Bahasa Indonesia": "Petani",
+    "Ngoko": "Petani",
+    "Krama": "Petani"
+  },
+  {
+    "Bahasa Indonesia": "Pintu gerbang",
+    "Ngoko": "Gapura",
+    "Krama": "Gapura"
+  },
+  {
+    "Bahasa Indonesia": "Pintu masuk",
+    "Ngoko": "Lawang lêbok",
+    "Krama": "Lêbêt mlebet"
+  },
+  {
+    "Bahasa Indonesia": "Pintu keluar",
+    "Ngoko": "Lawang mêtu",
+    "Krama": "Lêbêt medal"
+  },
+  {
+    "Bahasa Indonesia": "Pikiran",
+    "Ngoko": "Pikiran",
+    "Krama": "Gagasan"
+  },
+  {
+    "Bahasa Indonesia": "Pilih",
+    "Ngoko": "Pilih",
+    "Krama": "Milih"
+  },
+  {
+    "Bahasa Indonesia": "Pimpinan",
+    "Ngoko": "Pangarsa",
+    "Krama": "Pangarsa"
+  },
+  {
+    "Bahasa Indonesia": "Pisah",
+    "Ngoko": "Pisah",
+    "Krama": "Pisah"
+  },
+  {
+    "Bahasa Indonesia": "Pohon besar",
+    "Ngoko": "Wit gêdhé",
+    "Krama": "Pohon agêng"
+  },
+  {
+    "Bahasa Indonesia": "Pokoknya",
+    "Ngoko": "Pokoké",
+    "Krama": "Ingkang baku"
+  },
+  {
+    "Bahasa Indonesia": "Posisi",
+    "Ngoko": "Panggonan",
+    "Krama": "Papan"
+  },
+  {
+    "Bahasa Indonesia": "Potong",
+    "Ngoko": "Potong",
+    "Krama": "Potong"
+  },
+  {
+    "Bahasa Indonesia": "Praktis",
+    "Ngoko": "Praktis",
+    "Krama": "Praktis"
+  },
+  {
+    "Bahasa Indonesia": "Prestasi",
+    "Ngoko": "Prestasi",
+    "Krama": "Prestasi"
+  },
+  {
+    "Bahasa Indonesia": "Proses",
+    "Ngoko": "Prosès",
+    "Krama": "Prosès"
+  },
+  {
+    "Bahasa Indonesia": "Publik",
+    "Ngoko": "Umum",
+    "Krama": "Umum"
+  },
+  {
+    "Bahasa Indonesia": "Puji syukur",
+    "Ngoko": "Puji syukur",
+    "Krama": "Puji sokur"
+  },
+  {
+    "Bahasa Indonesia": "Pukul (jam)",
+    "Ngoko": "Jam",
+    "Krama": "Tabuh"
+  },
+  {
+    "Bahasa Indonesia": "Pulau",
+    "Ngoko": "Pulo",
+    "Krama": "Pulo"
+  },
+  {
+    "Bahasa Indonesia": "Pura",
+    "Ngoko": "Pura",
+    "Krama": "Pura"
+  },
+  {
+    "Bahasa Indonesia": "Pusat",
+    "Ngoko": "Pusat",
+    "Krama": "Pusat"
+  },
+  {
+    "Bahasa Indonesia": "Putra putri",
+    "Ngoko": "Anak-anak",
+    "Krama": "Putra-putri"
+  },
+  {
+    "Bahasa Indonesia": "Ragu-ragu",
+    "Ngoko": "Mangu-mangu",
+    "Krama": "Mangu-mangu"
+  },
+  {
+    "Bahasa Indonesia": "Rahasia",
+    "Ngoko": "Wadi",
+    "Krama": "Wados"
+  },
+  {
+    "Bahasa Indonesia": "Rajin sekali",
+    "Ngoko": "Sêtya banget",
+    "Krama": "Sêmangat sanget"
+  },
+  {
+    "Bahasa Indonesia": "Rakyat",
+    "Ngoko": "Rakyat",
+    "Krama": "Kawula"
+  },
+  {
+    "Bahasa Indonesia": "Rasa hormat",
+    "Ngoko": "Kurmat",
+    "Krama": "Kurmat"
+  },
+  {
+    "Bahasa Indonesia": "Rasa malu",
+    "Ngoko": "Wêruh isin",
+    "Krama": "Sumêrêp lingsem"
+  },
+  {
+    "Bahasa Indonesia": "Rata",
+    "Ngoko": "Rata",
+    "Krama": "Rata"
+  },
+  {
+    "Bahasa Indonesia": "Rayakan",
+    "Ngoko": "Rayaké",
+    "Krama": "Dipunriyayakaken"
+  },
+  {
+    "Bahasa Indonesia": "Rebut",
+    "Ngoko": "Rebut",
+    "Krama": "Rebat"
+  },
+  {
+    "Bahasa Indonesia": "Reda",
+    "Ngoko": "Lèrèn",
+    "Krama": "Kendel"
+  },
+  {
+    "Bahasa Indonesia": "Referensi",
+    "Ngoko": "Rujukan",
+    "Krama": "Rujukan"
+  },
+  {
+    "Bahasa Indonesia": "Resmi",
+    "Ngoko": "Rêsmi",
+    "Krama": "Rêsmi"
+  },
+  {
+    "Bahasa Indonesia": "Restu",
+    "Ngoko": "Pangèstu",
+    "Krama": "Pangèstu"
+  },
+  {
+    "Bahasa Indonesia": "Riwayat",
+    "Ngoko": "Riwayat",
+    "Krama": "Riwayat"
+  },
+  {
+    "Bahasa Indonesia": "Roh",
+    "Ngoko": "Ruh",
+    "Krama": "Ruh"
+  },
+  {
+    "Bahasa Indonesia": "Rombongan",
+    "Ngoko": "Rombongan",
+    "Krama": "Rombongan"
+  },
+  {
+    "Bahasa Indonesia": "Rukun",
+    "Ngoko": "Rukun",
+    "Krama": "Rukun"
+  },
+  {
+    "Bahasa Indonesia": "Rumah sakit",
+    "Ngoko": "Rumah sakit",
+    "Krama": "Griya sakit"
+  },
+  {
+    "Bahasa Indonesia": "Rupa",
+    "Ngoko": "Rupa",
+    "Krama": "Warninipun"
+  },
+  {
+    "Bahasa Indonesia": "Rusa",
+    "Ngoko": "Kidang",
+    "Krama": "Kidang"
+  },
+  {
+    "Bahasa Indonesia": "Saat",
+    "Ngoko": "Nalika",
+    "Krama": "Nalika"
+  },
+  {
+    "Bahasa Indonesia": "Sabtu",
+    "Ngoko": "Setu",
+    "Krama": "Setu"
+  },
+  {
+    "Bahasa Indonesia": "Sabar",
+    "Ngoko": "Sabar",
+    "Krama": "Sabar"
+  },
+  {
+    "Bahasa Indonesia": "Sabun",
+    "Ngoko": "Sabun",
+    "Krama": "Sabun"
+  },
+  {
+    "Bahasa Indonesia": "Sadar",
+    "Ngoko": "Éling",
+    "Krama": "Éling"
+  },
+  {
+    "Bahasa Indonesia": "Sakit hati",
+    "Ngoko": "Lara ati",
+    "Krama": "Gêring manah"
+  },
+  {
+    "Bahasa Indonesia": "Saksi",
+    "Ngoko": "Saksi",
+    "Krama": "Sêksi"
+  },
+  {
+    "Bahasa Indonesia": "Salah",
+    "Ngoko": "Salah",
+    "Krama": "Lèntu"
+  },
+  {
+    "Bahasa Indonesia": "Salam",
+    "Ngoko": "Salam",
+    "Krama": "Salam"
+  },
+  {
+    "Bahasa Indonesia": "Salat",
+    "Ngoko": "Salat",
+    "Krama": "Sêmbahyang"
+  },
+  {
+    "Bahasa Indonesia": "Saleh",
+    "Ngoko": "Solèh",
+    "Krama": "Solèh"
+  },
+  {
+    "Bahasa Indonesia": "Saling",
+    "Ngoko": "Silih",
+    "Krama": "Silih"
+  },
+  {
+    "Bahasa Indonesia": "Samudra",
+    "Ngoko": "Sagara",
+    "Krama": "Samodra"
+  },
+  {
+    "Bahasa Indonesia": "Sangat besar",
+    "Ngoko": "Gedhe banget",
+    "Krama": "Agêng sanget"
+  },
+  {
+    "Bahasa Indonesia": "Sangat kecil",
+    "Ngoko": "Cilik banget",
+    "Krama": "Alit sanget"
+  },
+  {
+    "Bahasa Indonesia": "Sangat penting",
+    "Ngoko": "Penting banget",
+    "Krama": "Pênting sanget"
+  },
+  {
+    "Bahasa Indonesia": "Sangat susah",
+    "Ngoko": "Susah banget",
+    "Krama": "Sisah sanget"
+  },
+  {
+    "Bahasa Indonesia": "Sanksi",
+    "Ngoko": "Sanksi",
+    "Krama": "Sanksi"
+  },
+  {
+    "Bahasa Indonesia": "Santai",
+    "Ngoko": "Santai",
+    "Krama": "Santai"
+  },
+  {
+    "Bahasa Indonesia": "Sapu",
+    "Ngoko": "Sapu",
+    "Krama": "Sapu"
+  },
+  {
+    "Bahasa Indonesia": "Sarapan",
+    "Ngoko": "Ésuk-ésuk",
+    "Krama": "Enjing-enjing"
+  },
+  {
+    "Bahasa Indonesia": "Sarang",
+    "Ngoko": "Susuh",
+    "Krama": "Susuh"
+  },
+  {
+    "Bahasa Indonesia": "Saring",
+    "Ngoko": "Saring",
+    "Krama": "Saring"
+  },
+  {
+    "Bahasa Indonesia": "Sastra",
+    "Ngoko": "Sastra",
+    "Krama": "Sastra"
+  },
+  {
+    "Bahasa Indonesia": "Sawah",
+    "Ngoko": "Sawah",
+    "Krama": "Sawah"
+  },
+  {
+    "Bahasa Indonesia": "Sayang sekali",
+    "Ngoko": "Sayang banget",
+    "Krama": "Sayang sanget"
+  },
+  {
+    "Bahasa Indonesia": "Sayuran",
+    "Ngoko": "Janganan",
+    "Krama": "Janganan"
+  },
+  {
+    "Bahasa Indonesia": "Sebagian",
+    "Ngoko": "Sêparuh",
+    "Krama": "Sêpalih"
+  },
+  {
+    "Bahasa Indonesia": "Sebelah kanan",
+    "Ngoko": "Têngên",
+    "Krama": "Têngên"
+  },
+  {
+    "Bahasa Indonesia": "Sebelah kiri",
+    "Ngoko": "Kiwa",
+    "Krama": "Kiwa"
+  },
+  {
+    "Bahasa Indonesia": "Sebuah",
+    "Ngoko": "Siji",
+    "Krama": "Setunggal"
+  },
+  {
+    "Bahasa Indonesia": "Secara",
+    "Ngoko": "Kanthi",
+    "Krama": "Kanthi"
+  },
+  {
+    "Bahasa Indonesia": "Sedang",
+    "Ngoko": "Lagi",
+    "Krama": "Sawêg"
+  },
+  {
+    "Bahasa Indonesia": "Sedih",
+    "Ngoko": "Sêdih",
+    "Krama": "Kingkin"
+  },
+  {
+    "Bahasa Indonesia": "Segala",
+    "Ngoko": "Sakabèhé",
+    "Krama": "Sakathahipun"
+  },
+  {
+    "Bahasa Indonesia": "Sehingga",
+    "Ngoko": "Nganti",
+    "Krama": "Ngantos"
+  },
+  {
+    "Bahasa Indonesia": "Sejarah",
+    "Ngoko": "Sajarah",
+    "Krama": "Sajarah"
+  },
+  {
+    "Bahasa Indonesia": "Sejahtera",
+    "Ngoko": "Sêjahtera",
+    "Krama": "Sêjahtera"
+  },
+  {
+    "Bahasa Indonesia": "Seka",
+    "Ngoko": "Saka",
+    "Krama": "Saking"
+  },
+  {
+    "Bahasa Indonesia": "Sekolah",
+    "Ngoko": "Sêkolah",
+    "Krama": "Sêkolahan"
+  },
+  {
+    "Bahasa Indonesia": "Seksi",
+    "Ngoko": "Sèksi",
+    "Krama": "Sèksi"
+  },
+  {
+    "Bahasa Indonesia": "Selalu",
+    "Ngoko": "Kêpétung",
+    "Krama": "Kêpétung"
+  },
+  {
+    "Bahasa Indonesia": "Selamat jalan",
+    "Ngoko": "Slamet dalan",
+    "Krama": "Wilujêng tindak"
+  },
+  {
+    "Bahasa Indonesia": "Selamat malam",
+    "Ngoko": "Slamet bêngi",
+    "Krama": "Wilujêng dalu"
+  },
+  {
+    "Bahasa Indonesia": "Selamat pagi",
+    "Ngoko": "Slamet ésuk",
+    "Krama": "Wilujêng enjing"
+  },
+  {
+    "Bahasa Indonesia": "Selamat siang",
+    "Ngoko": "Slamet awan",
+    "Krama": "Wilujêng siyang"
+  },
+  {
+    "Bahasa Indonesia": "Selatan",
+    "Ngoko": "Kidul",
+    "Krama": "Kidul"
+  },
+  {
+    "Bahasa Indonesia": "Selingan",
+    "Ngoko": "Sêlanan",
+    "Krama": "Sêlanan"
+  },
+  {
+    "Bahasa Indonesia": "Seluruh",
+    "Ngoko": "Kabèh",
+    "Krama": "Sakathahipun"
+  },
+  {
+    "Bahasa Indonesia": "Semangat",
+    "Ngoko": "Sêmangat",
+    "Krama": "Sêmangat"
+  },
+  {
+    "Bahasa Indonesia": "Sembah",
+    "Ngoko": "Sêmbah",
+    "Krama": "Sêmbah"
+  },
+  {
+    "Bahasa Indonesia": "Sembilan",
+    "Ngoko": "Sanga",
+    "Krama": "Sanga"
+  },
+  {
+    "Bahasa Indonesia": "Sembunyi",
+    "Ngoko": "Umêt",
+    "Krama": "Umêt"
+  },
+  {
+    "Bahasa Indonesia": "Sempit",
+    "Ngoko": "Ciut",
+    "Krama": "Ciut"
+  },
+  {
+    "Bahasa Indonesia": "Semprot",
+    "Ngoko": "Sêmprot",
+    "Krama": "Sêmprot"
+  },
+  {
+    "Bahasa Indonesia": "Semua orang",
+    "Ngoko": "Kabèh wong",
+    "Krama": "Sami tiyang"
+  },
+  {
+    "Bahasa Indonesia": "Senang hati",
+    "Ngoko": "Seneng ati",
+    "Krama": "Suka manah"
+  },
+  {
+    "Bahasa Indonesia": "Sendirian",
+    "Ngoko": "Dhéwékan",
+    "Krama": "Piyambakan"
+  },
+  {
+    "Bahasa Indonesia": "Sengaja",
+    "Ngoko": "Sêngaja",
+    "Krama": "Sêngaja"
+  },
+  {
+    "Bahasa Indonesia": "Senin",
+    "Ngoko": "Sênèn",
+    "Krama": "Soma"
+  },
+  {
+    "Bahasa Indonesia": "Senja",
+    "Ngoko": "Sandikala",
+    "Krama": "Sandikala"
+  },
+  {
+    "Bahasa Indonesia": "Sentuh",
+    "Ngoko": "Sênggol",
+    "Krama": "Sênggol"
+  },
+  {
+    "Bahasa Indonesia": "Sepuluh",
+    "Ngoko": "Sepuluh",
+    "Krama": "Sedasa"
+  },
+  {
+    "Bahasa Indonesia": "Sepi",
+    "Ngoko": "Sêpi",
+    "Krama": "Sêpi"
+  },
+  {
+    "Bahasa Indonesia": "Seragam",
+    "Ngoko": "Sêragam",
+    "Krama": "Sêragam"
+  },
+  {
+    "Bahasa Indonesia": "Seram",
+    "Ngoko": "Nggilani",
+    "Krama": "Nggilani"
+  },
+  {
+    "Bahasa Indonesia": "Serangan",
+    "Ngoko": "Sêrangan",
+    "Krama": "Sêrangan"
+  },
+  {
+    "Bahasa Indonesia": "Serba",
+    "Ngoko": "Sarwa",
+    "Krama": "Sarwa"
+  },
+  {
+    "Bahasa Indonesia": "Serius",
+    "Ngoko": "Sérius",
+    "Krama": "Sérius"
+  },
+  {
+    "Bahasa Indonesia": "Serta",
+    "Ngoko": "Uga",
+    "Krama": "Ugi"
+  },
+  {
+    "Bahasa Indonesia": "Setan",
+    "Ngoko": "Sétan",
+    "Krama": "Sétan"
+  },
+  {
+    "Bahasa Indonesia": "Setengah",
+    "Ngoko": "Sêtêngah",
+    "Krama": "Sêtêngah"
+  },
+  {
+    "Bahasa Indonesia": "Setiap",
+    "Ngoko": "Saben",
+    "Krama": "Saben"
+  },
+  {
+    "Bahasa Indonesia": "Setuju",
+    "Ngoko": "Suju",
+    "Krama": "Sêtuju"
+  },
+  {
+    "Bahasa Indonesia": "Sewa",
+    "Ngoko": "Sewa",
+    "Krama": "Sewa"
+  },
+  {
+    "Bahasa Indonesia": "Siang",
+    "Ngoko": "Awan",
+    "Krama": "Siyang"
+  },
+  {
+    "Bahasa Indonesia": "Siasat",
+    "Ngoko": "Siasat",
+    "Krama": "Siasat"
+  },
+  {
+    "Bahasa Indonesia": "Sifat",
+    "Ngoko": "Watak",
+    "Krama": "Watak"
+  },
+  {
+    "Bahasa Indonesia": "Siksa",
+    "Ngoko": "Siksa",
+    "Krama": "Siksa"
+  },
+  {
+    "Bahasa Indonesia": "Sila",
+    "Ngoko": "Sila",
+    "Krama": "Sila"
+  },
+  {
+    "Bahasa Indonesia": "Silakan",
+    "Ngoko": "Monggo",
+    "Krama": "Sumangga"
+  },
+  {
+    "Bahasa Indonesia": "Simpan",
+    "Ngoko": "Simpen",
+    "Krama": "Simpen"
+  },
+  {
+    "Bahasa Indonesia": "Simpati",
+    "Ngoko": "Simpati",
+    "Krama": "Simpati"
+  },
+  {
+    "Bahasa Indonesia": "Singkat",
+    "Ngoko": "Cêndhak",
+    "Krama": "Cakêt"
+  },
+  {
+    "Bahasa Indonesia": "Sisa",
+    "Ngoko": "Sisa",
+    "Krama": "Sisa"
+  },
+  {
+    "Bahasa Indonesia": "Situasi",
+    "Ngoko": "Kahanan",
+    "Krama": "Kawontênan"
+  },
+  {
+    "Bahasa Indonesia": "Sopan santun",
+    "Ngoko": "Tata krama",
+    "Krama": "Tata krama"
+  },
+  {
+    "Bahasa Indonesia": "Sosial",
+    "Ngoko": "Sosial",
+    "Krama": "Sosial"
+  },
+  {
+    "Bahasa Indonesia": "Spesial",
+    "Ngoko": "Spesial",
+    "Krama": "Spesial"
+  },
+  {
+    "Bahasa Indonesia": "Stabil",
+    "Ngoko": "Stabil",
+    "Krama": "Stabil"
+  },
+  {
+    "Bahasa Indonesia": "Stasiun",
+    "Ngoko": "Setasiun",
+    "Krama": "Setasiun"
+  },
+  {
+    "Bahasa Indonesia": "Strategi",
+    "Ngoko": "Stratégi",
+    "Krama": "Stratégi"
+  },
+  {
+    "Bahasa Indonesia": "Struktur",
+    "Ngoko": "Struktur",
+    "Krama": "Struktur"
+  },
+  {
+    "Bahasa Indonesia": "Suara keras",
+    "Ngoko": "Swara banter",
+    "Krama": "Sura banter"
+  },
+  {
+    "Bahasa Indonesia": "Suara pelan",
+    "Ngoko": "Swara alon",
+    "Krama": "Sura saréh"
+  },
+  {
+    "Bahasa Indonesia": "Suasana",
+    "Ngoko": "Swasana",
+    "Krama": "Swasana"
+  },
+  {
+    "Bahasa Indonesia": "Suci",
+    "Ngoko": "Suci",
+    "Krama": "Suci"
+  },
+  {
+    "Bahasa Indonesia": "Sudahkah?",
+    "Ngoko": "Wis?",
+    "Krama": "Sampun?"
+  },
+  {
+    "Bahasa Indonesia": "Suatu hari",
+    "Ngoko": "Siji dina",
+    "Krama": "Setunggal dinten"
+  },
+  {
+    "Bahasa Indonesia": "Subjek",
+    "Ngoko": "Subjèk",
+    "Krama": "Subjèk"
+  },
+  {
+    "Bahasa Indonesia": "Suka cita",
+    "Ngoko": "Suka cita",
+    "Krama": "Suka cita"
+  },
+  {
+    "Bahasa Indonesia": "Sukses",
+    "Ngoko": "Sukses",
+    "Krama": "Sukses"
+  },
+  {
+    "Bahasa Indonesia": "Sulit",
+    "Ngoko": "Angèl",
+    "Krama": "Awrat"
+  },
+  {
+    "Bahasa Indonesia": "Sumber",
+    "Ngoko": "Sumbêr",
+    "Krama": "Sumbêr"
+  },
+  {
+    "Bahasa Indonesia": "Sumur",
+    "Ngoko": "Sumbur",
+    "Krama": "Sumur"
+  },
+  {
+    "Bahasa Indonesia": "Surat",
+    "Ngoko": "Layang",
+    "Krama": "Sêrat"
+  },
+  {
+    "Bahasa Indonesia": "Surga",
+    "Ngoko": "Swarga",
+    "Krama": "Swarga"
+  },
+  {
+    "Bahasa Indonesia": "Suruh",
+    "Ngoko": "Kongkon",
+    "Krama": "Kèngkèn"
+  },
+  {
+    "Bahasa Indonesia": "Susah hati",
+    "Ngoko": "Sêdih ati",
+    "Krama": "Kingkin manah"
+  },
+  {
+    "Bahasa Indonesia": "Syarat",
+    "Ngoko": "Syarat",
+    "Krama": "Sarat"
+  },
+  {
+    "Bahasa Indonesia": "Taat",
+    "Ngoko": "Taat",
+    "Krama": "Taat"
+  },
+  {
+    "Bahasa Indonesia": "Tagih",
+    "Ngoko": "Tagih",
+    "Krama": "Tagih"
+  },
+  {
+    "Bahasa Indonesia": "Tajam",
+    "Ngoko": "Landhêp",
+    "Krama": "Landhêp"
+  },
+  {
+    "Bahasa Indonesia": "Takut",
+    "Ngoko": "Wedhi",
+    "Krama": "Ajrih"
+  },
+  {
+    "Bahasa Indonesia": "Talenta",
+    "Ngoko": "Kautaman",
+    "Krama": "Kautaman"
+  },
+  {
+    "Bahasa Indonesia": "Taman bunga",
+    "Ngoko": "Kebon kembang",
+    "Krama": "Patamanan sêkar"
+  },
+  {
+    "Bahasa Indonesia": "Tanda",
+    "Ngoko": "Tandha",
+    "Krama": "Têngêr"
+  },
+  {
+    "Bahasa Indonesia": "Tangan kanan",
+    "Ngoko": "Tangan têngên",
+    "Krama Inggil": "Asta têngên"
+  },
+  {
+    "Bahasa Indonesia": "Tangan kiri",
+    "Ngoko": "Tangan kiwa",
+    "Krama Inggil": "Asta kiwa"
+  },
+  {
+    "Bahasa Indonesia": "Tanggal",
+    "Ngoko": "Tanggal",
+    "Krama": "Tanggal"
+  },
+  {
+    "Bahasa Indonesia": "Tanggung jawab",
+    "Ngoko": "Tanggun jawab",
+    "Krama": "Tanggel jawab"
+  },
+  {
+    "Bahasa Indonesia": "Tarik",
+    "Ngoko": "Sèrèt",
+    "Krama": "Sèrèt"
+  },
+  {
+    "Bahasa Indonesia": "Tawa",
+    "Ngoko": "Guyu",
+    "Krama": "Gêgujêngan"
+  },
+  {
+    "Bahasa Indonesia": "Tawar",
+    "Ngoko": "Tawar",
+    "Krama": "Tawis"
+  },
+  {
+    "Bahasa Indonesia": "Tebal",
+    "Ngoko": "Kandêl",
+    "Krama": "Kandêl"
+  },
+  {
+    "Bahasa Indonesia": "Tegak",
+    "Ngoko": "Ngadêg",
+    "Krama": "Ngadêg"
+  },
+  {
+    "Bahasa Indonesia": "Tegas",
+    "Ngoko": "Têgês",
+    "Krama": "Têgês"
+  },
+  {
+    "Bahasa Indonesia": "Tegur",
+    "Ngoko": "Sapa",
+    "Krama": "Nêgur"
+  },
+  {
+    "Bahasa Indonesia": "Tekad",
+    "Ngoko": "Tekad",
+    "Krama": "Tekad"
+  },
+  {
+    "Bahasa Indonesia": "Tekanan",
+    "Ngoko": "Têkanan",
+    "Krama": "Têkanan"
+  },
+  {
+    "Bahasa Indonesia": "Teladan",
+    "Ngoko": "Tuladha",
+    "Krama": "Tuladha"
+  },
+  {
+    "Bahasa Indonesia": "Telanjang",
+    "Ngoko": "Wuda",
+    "Krama": "Wuda"
+  },
+  {
+    "Bahasa Indonesia": "Telepon",
+    "Ngoko": "Tèlpon",
+    "Krama": "Tèlpon"
+  },
+  {
+    "Bahasa Indonesia": "Teliti",
+    "Ngoko": "Tliti",
+    "Krama": "Titi"
+  },
+  {
+    "Bahasa Indonesia": "Telinga",
+    "Ngoko": "Kuping",
+    "Krama Inggil": "Talingan"
+  },
+  {
+    "Bahasa Indonesia": "Telur",
+    "Ngoko": "Êndhog",
+    "Krama": "Tigan"
+  },
+  {
+    "Bahasa Indonesia": "Tema",
+    "Ngoko": "Téma",
+    "Krama": "Téma"
+  },
+  {
+    "Bahasa Indonesia": "Teman baik",
+    "Ngoko": "Konco apik",
+    "Krama": "Rekan sae"
+  },
+  {
+    "Bahasa Indonesia": "Teman dekat",
+    "Ngoko": "Konco cêdhak",
+    "Krama": "Rekan cakêt"
+  },
+  {
+    "Bahasa Indonesia": "Temani",
+    "Ngoko": "Kancani",
+    "Krama": "Ngancani"
+  },
+  {
+    "Bahasa Indonesia": "Tengah",
+    "Ngoko": "Têngah",
+    "Krama": "Têngah"
+  },
+  {
+    "Bahasa Indonesia": "Tentu saja",
+    "Ngoko": "Ya mêsti",
+    "Krama": "Inggih têmtu"
+  },
+  {
+    "Bahasa Indonesia": "Tepuk tangan",
+    "Ngoko": "Kêplok",
+    "Krama": "Kêplok"
+  },
+  {
+    "Bahasa Indonesia": "Terang",
+    "Ngoko": "Padhang",
+    "Krama": "Pêdhah"
+  },
+  {
+    "Bahasa Indonesia": "Terasa",
+    "Ngoko": "Krasa",
+    "Krama": "Karaos"
+  },
+  {
+    "Bahasa Indonesia": "Teratur",
+    "Ngoko": "Tata",
+    "Krama": "Tata"
+  },
+  {
+    "Bahasa Indonesia": "Terbuka",
+    "Ngoko": "Mbuka",
+    "Krama": "Mbikak"
+  },
+  {
+    "Bahasa Indonesia": "Terburu-buru",
+    "Ngoko": "Kêsusu",
+    "Krama": "Kêsusu"
+  },
+  {
+    "Bahasa Indonesia": "Terdengar",
+    "Ngoko": "Krungu",
+    "Krama": "Kapingêr"
+  },
+  {
+    "Bahasa Indonesia": "Tergantung",
+    "Ngoko": "Gumantung",
+    "Krama": "Gumantung"
+  },
+  {
+    "Bahasa Indonesia": "Tergerak",
+    "Ngoko": "Kêgirik",
+    "Krama": "Kêgirik"
+  },
+  {
+    "Bahasa Indonesia": "Terima",
+    "Ngoko": "Tampa",
+    "Krama": "Nampi"
+  },
+  {
+    "Bahasa Indonesia": "Terjadi",
+    "Ngoko": "Kêlakon",
+    "Krama": "Kalampahan"
+  },
+  {
+    "Bahasa Indonesia": "Terjawab",
+    "Ngoko": "Kêsaur",
+    "Krama": "Kawangsul"
+  },
+  {
+    "Bahasa Indonesia": "Terkenal",
+    "Ngoko": "Kondhang",
+    "Krama": "Kondhang"
+  },
+  {
+    "Bahasa Indonesia": "Terlalu banyak",
+    "Ngoko": "Kêbacut akèh",
+    "Krama": "Kêbacut kathah"
+  },
+  {
+    "Bahasa Indonesia": "Terlalu cepat",
+    "Ngoko": "Kêbacut cepet",
+    "Krama": "Kêbacut enjing"
+  },
+  {
+    "Bahasa Indonesia": "Terlalu lama",
+    "Ngoko": "Kêbacut suwé",
+    "Krama": "Kêbacut dangu"
+  },
+  {
+    "Bahasa Indonesia": "Terletak",
+    "Ngoko": "Panggonané",
+    "Krama": "Papanipun"
+  },
+  {
+    "Bahasa Indonesia": "Termasuk",
+    "Ngoko": "Kêtêmu",
+    "Krama": "Kêtêmu"
+  },
+  {
+    "Bahasa Indonesia": "Ternyata",
+    "Ngoko": "Jebul",
+    "Krama": "Pranyata"
+  },
+  {
+    "Bahasa Indonesia": "Tersenyum",
+    "Ngoko": "Ngguyu",
+    "Krama": "Gumujêng"
+  },
+  {
+    "Bahasa Indonesia": "Tertarik",
+    "Ngoko": "Kêtarik",
+    "Krama": "Katarik"
+  },
+  {
+    "Bahasa Indonesia": "Terus-menerus",
+    "Ngoko": "Kêpétung-pétung",
+    "Krama": "Kêpétung-pétung"
+  },
+  {
+    "Bahasa Indonesia": "Terutama",
+    "Ngoko": "Utamané",
+    "Krama": "Utaminipun"
+  },
+  {
+    "Bahasa Indonesia": "Tetapi",
+    "Ngoko": "Nanging",
+    "Krama": "Nanging"
+  },
+  {
+    "Bahasa Indonesia": "Tiba",
+    "Ngoko": "Tiba",
+    "Krama": "Dhawah"
+  },
+  {
+    "Bahasa Indonesia": "Tiba-tiba",
+    "Ngoko": "Ujug-ujug",
+    "Krama": "Dumadakan"
+  },
+  {
+    "Bahasa Indonesia": "Tidur siang",
+    "Ngoko": "Turu awan",
+    "Krama Inggil": "Saré siyang"
+  },
+  {
+    "Bahasa Indonesia": "Tiga",
+    "Ngoko": "Telu",
+    "Krama": "Tiga"
+  },
+  {
+    "Bahasa Indonesia": "Tindakan",
+    "Ngoko": "Tumindak",
+    "Krama": "Tumindak"
+  },
+  {
+    "Bahasa Indonesia": "Tinggal (diam)",
+    "Ngoko": "Ngon",
+    "Krama": "Ngon"
+  },
+  {
+    "Bahasa Indonesia": "Tinggal (menetap)",
+    "Ngoko": "Ngon",
+    "Krama": "Ngon"
+  },
+  {
+    "Bahasa Indonesia": "Tingkat",
+    "Ngoko": "Tingkat",
+    "Krama": "Tingkat"
+  },
+  {
+    "Bahasa Indonesia": "Tipis",
+    "Ngoko": "Tipis",
+    "Krama": "Tipis"
+  },
+  {
+    "Bahasa Indonesia": "Tiru",
+    "Ngoko": "Tiru",
+    "Krama": "Tiru"
+  },
+  {
+    "Bahasa Indonesia": "Tolak",
+    "Ngoko": "Tolak",
+    "Krama": "Tolak"
+  },
+  {
+    "Bahasa Indonesia": "Topi",
+    "Ngoko": "Kupiah",
+    "Krama": "Kupiah"
+  },
+  {
+    "Bahasa Indonesia": "Tradisi",
+    "Ngoko": "Tradisi",
+    "Krama": "Tradisi"
+  },
+  {
+    "Bahasa Indonesia": "Traktir",
+    "Ngoko": "Traktir",
+    "Krama": "Traktir"
+  },
+  {
+    "Bahasa Indonesia": "Tujuan",
+    "Ngoko": "Tujuwan",
+    "Krama": "Tujuan"
+  },
+  {
+    "Bahasa Indonesia": "Tujuh",
+    "Ngoko": "Pitu",
+    "Krama": "Pitu"
+  },
+  {
+    "Bahasa Indonesia": "Tulis",
+    "Ngoko": "Tulis",
+    "Krama": "Serat"
+  },
+  {
+    "Bahasa Indonesia": "Tumbuh besar",
+    "Ngoko": "Thukul gêdhé",
+    "Krama": "Thukul agêng"
+  },
+  {
+    "Bahasa Indonesia": "Tunangan",
+    "Ngoko": "Tunangan",
+    "Krama": "Tunangan"
+  },
+  {
+    "Bahasa Indonesia": "Tunjuk",
+    "Ngoko": "Tuduh",
+    "Krama": "Tuduh"
+  },
+  {
+    "Bahasa Indonesia": "Tuntut",
+    "Ngoko": "Tuntut",
+    "Krama": "Tuntut"
+  },
+  {
+    "Bahasa Indonesia": "Turun hujan",
+    "Ngoko": "Udhan",
+    "Krama": "Jawuh"
+  },
+  {
+    "Bahasa Indonesia": "Turut",
+    "Ngoko": "Nuruti",
+    "Krama": "Nurut"
+  },
+  {
+    "Bahasa Indonesia": "Tutup",
+    "Ngoko": "Tutup",
+    "Krama": "Tutup"
+  },
+  {
+    "Bahasa Indonesia": "Ucap",
+    "Ngoko": "Ucap",
+    "Krama": "Ucapan"
+  },
+  {
+    "Bahasa Indonesia": "Udara",
+    "Ngoko": "Hawa",
+    "Krama": "Hawa"
+  },
+  {
+    "Bahasa Indonesia": "Ujung jalan",
+    "Ngoko": "Pungkasan dalan",
+    "Krama": "Pucuking lêbêt"
+  },
+  {
+    "Bahasa Indonesia": "Ulang tahun",
+    "Ngoko": "Tanggal lair",
+    "Krama": "Wiyosan"
+  },
+  {
+    "Bahasa Indonesia": "Umat",
+    "Ngoko": "Umat",
+    "Krama": "Umat"
+  },
+  {
+    "Bahasa Indonesia": "Umumnya",
+    "Ngoko": "Lumrahé",
+    "Krama": "Lumrahipun"
+  },
+  {
+    "Bahasa Indonesia": "Undang",
+    "Ngoko": "Undhang",
+    "Krama": "Ngaturi"
+  },
+  {
+    "Bahasa Indonesia": "Unggul",
+    "Ngoko": "Unggul",
+    "Krama": "Unggul"
+  },
+  {
+    "Bahasa Indonesia": "Unik",
+    "Ngoko": "Unik",
+    "Krama": "Unik"
+  },
+  {
+    "Bahasa Indonesia": "Untuk itu",
+    "Ngoko": "Kanggo iku",
+    "Krama": "Kangge samenika"
+  },
+  {
+    "Bahasa Indonesia": "Untung",
+    "Ngoko": "Untung",
+    "Krama": "Untung"
+  },
+  {
+    "Bahasa Indonesia": "Urus",
+    "Ngoko": "Urus",
+    "Krama": "Urus"
+  },
+  {
+    "Bahasa Indonesia": "Usia lanjut",
+    "Ngoko": "Umur tuwa",
+    "Krama": "Yuswa sêpuh"
+  },
+  {
+    "Bahasa Indonesia": "Usul",
+    "Ngoko": "Usul",
+    "Krama": "Usul"
+  },
+  {
+    "Bahasa Indonesia": "Wabah",
+    "Ngoko": "Pageblug",
+    "Krama": "Pageblug"
+  },
+  {
+    "Bahasa Indonesia": "Wafat",
+    "Ngoko": "Mati",
+    "Krama": "Séda"
+  },
+  {
+    "Bahasa Indonesia": "Wahai",
+    "Ngoko": "Hé",
+    "Krama": "Dhuh"
+  },
+  {
+    "Bahasa Indonesia": "Wajib pajak",
+    "Ngoko": "Wajib pajak",
+    "Krama": "Kêwajiban pajêk"
+  },
+  {
+    "Bahasa Indonesia": "Wajah",
+    "Ngoko": "Rai",
+    "Krama Inggil": "Pasuryan"
+  },
+  {
+    "Bahasa Indonesia": "Waktu luang",
+    "Ngoko": "Wektu longgar",
+    "Krama": "Wêkdal longgar"
+  },
+  {
+    "Bahasa Indonesia": "Waktu subuh",
+    "Ngoko": "Wayah subuh",
+    "Krama": "Wêkdal subuh"
+  },
+  {
+    "Bahasa Indonesia": "Waspada selalu",
+    "Ngoko": "Ngati-ati terus",
+    "Krama": "Waspada tansah"
+  },
+  {
+    "Bahasa Indonesia": "Wawancara",
+    "Ngoko": "Wawancara",
+    "Krama": "Wawancara"
+  },
+  {
+    "Bahasa Indonesia": "Wayang",
+    "Ngoko": "Wayang",
+    "Krama": "Ringgit"
+  },
+  {
+    "Bahasa Indonesia": "Wilayah",
+    "Ngoko": "Wilayah",
+    "Krama": "Wilayah"
+  },
+  {
+    "Bahasa Indonesia": "Wujud",
+    "Ngoko": "Wujud",
+    "Krama": "Wujud"
+  },
+  {
+    "Bahasa Indonesia": "Yakni",
+    "Ngoko": "Yaiku",
+    "Krama": "Inggih punika"
+  },
+  {
+    "Bahasa Indonesia": "Yatim piatu",
+    "Ngoko": "Yatim piyatu",
+    "Krama": "Yatim piyatu"
+  },
+  {
+    "Bahasa Indonesia": "Yogyakarta",
+    "Ngoko": "Jogja",
+    "Krama": "Ngayogyakarta"
+  },
+  {
+    "Bahasa Indonesia": "Yudisial",
+    "Ngoko": "Yudisial",
+    "Krama": "Yudisial"
+  },
+  {
+    "Bahasa Indonesia": "Ziarah",
+    "Ngoko": "Ziarah",
+    "Krama": "Ziarah"
+  }
+]
+ 
